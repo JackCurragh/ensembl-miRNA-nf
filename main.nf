@@ -1,5 +1,5 @@
 
-include { mirMachine } from './workflows/local/mirMachine.nf'
+include { mirMachine } from './subworkflows/local/mirMachine.nf'
 
 log.info """\
 
