@@ -14,6 +14,8 @@ Example:
 """
 
 import argparse
+from ete3 import NCBITaxa
+
 
 
 def lint_args(args: argparse.Namespace) -> argparse.Namespace:

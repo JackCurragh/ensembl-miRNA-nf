@@ -18,20 +18,20 @@ process FORMAT_CLADES {
         file clades
 
     output:
-        file "clades.txt"
+        file "formatted_clades.txt"
 
     shell:
         """ 
 #!/usr/bin/env python
-with open("clades.txt", "w") as outfile:
+with open("formatted_clades.txt", "w") as outfile:
 
     with open("${clades}", "r") as f:
         clades = f.readlines()
         clades_list = []
-        for line in clades:
-            print(line)
+        for line in clades[1:]:
             for clade in line.split(" "):
                 outfile.write(f"{clade.strip()}")
+                outfile.write("\\n")
         """
 
 }
@@ -44,7 +44,7 @@ process MATCH_CLADE {
         file clade_file
 
     output:
-        val(stdout)
+        stdout
 
     script:
         """

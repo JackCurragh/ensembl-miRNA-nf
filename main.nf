@@ -7,6 +7,7 @@ log.info """\
     =========================================
     species: ${params.species}
     accession: ${params.accession}
+    mirMachine_clades: ${params.mirMachine_clades}
     =========================================
 """
 
@@ -14,5 +15,5 @@ log.info """\
 
 workflow {
 
-    mirMachine(params.species, params.accession)
+    mirMachine(params.species, params.accession, params.mirMachine_clades)
 }
