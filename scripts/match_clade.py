@@ -14,31 +14,150 @@ Example:
 """
 
 import argparse
+import ete3
 from ete3 import NCBITaxa
 
 
-
-def lint_args(args: argparse.Namespace) -> argparse.Namespace:
+def check_lineage_order(species: str, lineage: list) -> bool:
     """
-    Lint arguments from argparse
+    Return True if the lineage is in the correct order (from higher to lower)
 
     Parameters
     ----------
-    args : argparse.Namespace
-        Arguments from argparse
+    lineage : list
+        List of lineages
 
     Returns
     -------
-    args : argparse.Namespace
-        Arguments from argparse that have been linted
+    bool
+        True if the lineage is in the correct order (from higher to lower)
     """
-    if args.species[0].islower():
-        args.species = args.species.capitalize()
+    if lineage[-1] == species:
+        return True
+    else:
+        return False
 
-    if " " in args.species:
-        args.species = args.species.replace(" ", "_")
 
-    return args
+def taxoniq_match(species: str, taxid: int, tool_lineage: list) -> str:
+    """
+    Check for a suitable match using taxoniq
+
+    Parameters
+    ----------
+    species : str
+        Species name
+    taxid : int
+        Taxonomy ID
+    tool_lineage : list
+        List of lineages
+
+    Returns
+    -------
+    str
+        Closest match
+    """
+    t = taxoniq.Taxon(taxid)
+    lineage = [t.scientific_name for t in t.ranked_lineage]
+    if not check_lineage_order(t.scientific_name, lineage):
+        lineage = lineage[::-1]
+
+    if tool_lineage is None:
+        raise ValueError("Tool lineages must be provided")
+
+    matches = []
+    for i in reversed(lineage):
+        for l in tool_lineage:
+            if l.strip().lower() == i.strip().lower():
+                matches.append(l.strip())
+            elif l.strip().startswith(str(i.strip()[: len(i) - 2].lower())):
+                matches.append(l)
+    return matches
+
+
+def ete3_match(ncbi: ete3.ncbi_taxonomy.ncbiquery.NCBITaxa, species: str, tool_lineage: list) -> str:
+    """
+    Check for a suitable match using ete3
+
+    Parameters
+    ----------
+    ncbi : ete3.ncbi_taxonomy.ncbiquery.NCBITaxa
+        Instance of ete3.ncbi_taxonomy.ncbiquery.NCBITaxa
+    species : str
+        Species name
+    tool_lineage : list
+        List of lineages
+
+    Returns
+    -------
+    str
+        Closest match
+    """
+
+    name2taxid = ncbi.get_name_translator([species])
+    taxon_id = str(list(name2taxid.values())[0]).strip("[]")
+    lineage = ncbi.get_lineage(taxon_id)
+
+    names = ncbi.get_taxid_translator(lineage)
+    lineage_list = [names[taxid] for taxid in lineage]
+    if not check_lineage_order(species, lineage_list):
+        lineage_list = lineage_list[::-1]
+
+    match = []
+    for i in reversed(lineage_list):
+        for l in tool_lineage:
+            if l.strip().lower() == i.strip().lower():
+                match.append(l.strip())
+            elif l.strip().startswith(str(i[: len(i) - 2].lower())):
+                match.append(l)
+
+    return match
+
+def get_ncbi(update: bool = False) -> ete3.ncbi_taxonomy.ncbiquery.NCBITaxa:
+    """
+    Get an instance of ete3.ncbi_taxonomy.ncbiquery.NCBITaxa
+
+    Parameters
+    ----------
+    update : bool
+        Update the NCBI taxonomy database
+
+    Returns
+    -------
+    ete3.ncbi_taxonomy.ncbiquery.NCBITaxa
+        Instance of ete3.ncbi_taxonomy.ncbiquery.NCBITaxa
+    """
+    ncbi = NCBITaxa()
+    if update:
+        ncbi.update_taxonomy_database()
+    return ncbi
+
+def get_taxid(ncbi: ete3.ncbi_taxonomy.ncbiquery.NCBITaxa, species_name: str) -> int:
+    """
+    Given a species name, return the taxonomy ID
+
+    Parameters
+    ----------
+    species_name : str
+        Species name
+
+    Returns
+    -------
+    int
+        Taxonomy ID
+    """
+    try:
+        name2taxid = ncbi.get_name_translator([species_name])
+        taxon_id = str(list(name2taxid.values())[0]).strip("[]")
+        return taxon_id
+    except IndexError:
+        ncbi = get_ncbi(update=True)
+        name2taxid = ncbi.get_name_translator([species_name])
+        taxon_id = str(list(name2taxid.values())[0]).strip("[]")
+        return taxon_id
+    except:
+        raise ValueError("Species name not found")
+
+    
 
 def get_clade_match(clades: list, species_name: str) -> str:
     """
@@ -56,11 +175,18 @@ def get_clade_match(clades: list, species_name: str) -> str:
     str
         Closest match
     """
-    clade_match = []
-    for clade in clades:
-        if clade.lower() in species_name.lower():
-            clade_match.append(clade)
-    return clade_match[0]
+    if not check_lineage_order(species_name, clades):
+        clades = clades[::-1]
+    
+    ncbi = get_ncbi()
+    taxon_id = get_taxid(ncbi, species_name)
+    # match = taxoniq_match(species_name, taxon_id, clades)
+    match = []
+    if match == []:
+        match = ete3_match(ncbi, species_name, clades)
+    if match == []:
+        raise ValueError("No match found")
+    return match
 
 
 def main(args: argparse.Namespace) -> None:
@@ -73,16 +199,29 @@ def main(args: argparse.Namespace) -> None:
         Arguments from argparse
     """
     with open(args.clades, "r") as file:
-        clades = file.read().splitlines()
-    
+        clades = [line[:max(line.find(' '), 0) or None] for line in file]
+        
     clade_match = get_clade_match(clades, args.species)
-    
-    with open(args.output, "w+") as output:
-        output.write(clade_match)
 
-    get_clade_match(args.clades, args.species)
+    if clade_match == []:
+        raise ValueError("No match found")
+    
+    if args.output == "stdout":
+        if clade_match[0] == args.species:
+            print(clade_match[1].strip('\n'), end='')
+            return None
+        else:
+            print(clade_match[0].strip('\n'), end='')
+            return None
+    else:
+        with open(args.output, "w+") as output:
+            if clade_match[0] == args.species:
+                output.write(clade_match[1])
+            else:
+                output.write(clade_match[0])
 
     return None
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -93,20 +232,9 @@ if __name__ == "__main__":
         help="Path to file containing list of clades (one per line)",
         required=True,
     )
+    parser.add_argument("-s", "--species", type=str, help="Species name", required=True)
     parser.add_argument(
-        "-s",
-        "--species",
-        type=str,
-        help="Species name",
-        required=True,
-    )
-    parser.add_argument(
-        "--output",
-        type=str,
-        help="Output file",
-        default="./clade_match.txt",
+        "--output", type=str, help="Output file", default="./clade_match.txt"
     )
     args = parser.parse_args()
-    args = lint_args(args)
     main(args)
-    

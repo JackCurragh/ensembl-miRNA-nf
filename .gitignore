@@ -3,3 +3,4 @@ data/
 .nextflow*
 singularity/
 *.gz
+.vscode/

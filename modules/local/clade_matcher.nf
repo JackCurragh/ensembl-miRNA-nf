@@ -37,6 +37,7 @@ with open("formatted_clades.txt", "w") as outfile:
 }
 
 process MATCH_CLADE {
+    // conda 'ete3 python=3.7'
 
     input:
         val(species)
@@ -48,7 +49,7 @@ process MATCH_CLADE {
 
     script:
         """
-        python $projectDir/scripts/match_clade.py -s "${species}" -c $clade_file
+        /home/jack/projects/ensembl-miRNA-nf/work/conda/env-6ad1bea5447da15c90f1c8b907835e01/bin/python $projectDir/scripts/match_clade.py -s "${species}" -c $clade_file --output stdout
         """
 
 }
