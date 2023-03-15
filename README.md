@@ -27,3 +27,8 @@ miRNA Detection workflow developed for genebuild team at Ensembl
 └── subworkflows                                    #
     └── local                                       #
         └── mirMachine.nf                           #
+
+# To Do
+[] Solve conda environment issue
+[] Singularity issue for checking nodes
+[] Check that outputs are published correctly
