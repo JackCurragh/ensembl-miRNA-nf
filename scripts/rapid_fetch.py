@@ -86,7 +86,7 @@ def build_url(species: str, assembly: str) -> str:
     elif check_url_validity(f"{base_url}/braker"):
         return f"{base_url}/braker/genome/{species}-{assembly}-softmasked.fa.gz"
     else:
-        raise ValueError(f"Could not find assembly {assembly} for species {species} in ensembl Rapid release")
+        raise ValueError(f"Could not find assembly {assembly} for species {species} in ensembl Rapid release. Tested {base_url}/ensembl and {base_url}/braker.")
 
 
 def fetch_fasta(url: str, output: str):
