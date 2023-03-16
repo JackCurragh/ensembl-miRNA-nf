@@ -18,7 +18,7 @@ process MIRMACHINE {
 
     script:
         """
-        MirMachine.py --cpu ${task.cpus} --node ${node} --species  "${species}" --genome ${fasta}
+        MirMachine.py --cpu ${task.cpus} --node ${node} --species  "${species}" --genome ${fasta} > mirmachine.log
         """
 
 }
