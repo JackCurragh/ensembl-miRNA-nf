@@ -3,7 +3,7 @@ miRNA Detection workflow developed for genebuild team at Ensembl
 
 
 ## Project Structure
-│
+│<br />
 ├── README.md                                       #<br />
 ├── LICENSE                                         #<br />
 ├── main.nf                                         #<br />
