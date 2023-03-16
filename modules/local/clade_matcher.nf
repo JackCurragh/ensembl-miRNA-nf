@@ -49,6 +49,7 @@ process MATCH_CLADE {
 
     script:
         """
+        which python
         python $projectDir/scripts/match_clade.py -s "${species}" -c $clade_file --output stdout
         """
 
