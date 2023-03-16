@@ -7,11 +7,12 @@ process RAPID {
         val(accession)
 
     output:
-        file "*.fa.gz"
+        file "*.fa"
 
     script:
         """
         python $projectDir/scripts/rapid_fetch.py -s '${species}' -a '${accession}'
+        gzip -d *.gz
         """
 
 }
