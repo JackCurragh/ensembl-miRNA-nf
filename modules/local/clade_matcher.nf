@@ -37,7 +37,7 @@ with open("formatted_clades.txt", "w") as outfile:
 }
 
 process MATCH_CLADE {
-    conda 'ete3 python=3.7'
+    conda 'conda/match_clade.yaml'
 
     input:
         val(species)
@@ -49,7 +49,6 @@ process MATCH_CLADE {
 
     script:
         """
-        which python
         python $projectDir/scripts/match_clade.py -s "${species}" -c $clade_file --output stdout
         """
 

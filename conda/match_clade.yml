@@ -1,0 +1,7 @@
+name: clade_matcher
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - ete3
