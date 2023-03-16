@@ -5,7 +5,7 @@ process MIRMACHINE {
 
     publishDir "${params.outdir}/mirmachine", mode: 'copy'
 
-    cpus 8
+    cpus 4
     
     input:
         val(species)

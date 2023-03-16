@@ -11,7 +11,7 @@ miRNA Detection workflow developed for genebuild team at Ensembl
 ├── params.config                                   \
 │                                                   \
 ├── conf                                            \
-│   ├── slurm.config                                \    
+│   ├── slurm.config                                    
 │   └── standard.config                             \
 │\
 ├── modules                                         \
@@ -26,9 +26,9 @@ miRNA Detection workflow developed for genebuild team at Ensembl
 │                                                   \
 └── subworkflows                                    \
     └── local                                       \
-        └── mirMachine.nf                           \
+        └── mirMachine.nf                           
 
 # To Do
-[] Solve conda environment issue
-[] Singularity issue for checking nodes
-[] Check that outputs are published correctly
+- [ ] Solve conda environment issue
+- [ ] Singularity issue for checking nodes
+- [ ] Check that outputs are published correctly
