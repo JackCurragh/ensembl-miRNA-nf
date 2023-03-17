@@ -37,7 +37,7 @@ with open("formatted_clades.txt", "w") as outfile:
 }
 
 process MATCH_CLADE {
-    conda 'conda/match_clade.yaml'
+    // conda 'conda/match_clade.yaml'
 
     input:
         val(species)
@@ -49,7 +49,7 @@ process MATCH_CLADE {
 
     script:
         """
-        python $projectDir/scripts/match_clade.py -s "${species}" -c $clade_file --output stdout
+        /home/jack/projects/ensembl-miRNA-nf/work/conda/clade_matcher-ba96d969ccb22b7830be38e274811851/bin/python $projectDir/scripts/match_clade.py -s "${species}" -c $clade_file --output stdout
         """
 
 }
