@@ -61,7 +61,7 @@ else
     python -m venv venv
 fi
 source venv/bin/activate
-python -m pip install ete3
+python -m pip install ete3 six numpy
 deactivate
 ETE_PATH="$PWD/venv/bin/python"
 
@@ -71,7 +71,7 @@ echo "+-----------------------------------------+"
 echo "| Update Params.config                    |"
 echo "+-----------------------------------------+"
 echo ""
-CONFIG_LINE="\tmirmachine_singularity = $MIRMACHINE_PATH\n\tete_python = $ETE_PATH\n}"
+CONFIG_LINE="\tmirmachine_singularity = '$MIRMACHINE_PATH'\n\tete_python = '$ETE_PATH'\n}"
 awk -v var="$CONFIG_LINE" '{gsub("}",var,$0); print}' params.config > output.txt
 mv output.txt params.config
 echo ""
