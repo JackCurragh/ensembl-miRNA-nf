@@ -1,4 +1,9 @@
 
+nextflow.enable.dsl = 2
+
+workDir = './'
+scratch = './'
+
 include { mirMachine } from './subworkflows/local/mirMachine.nf'
 
 log.info """\
