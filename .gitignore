@@ -5,3 +5,4 @@ singularity/
 *.gz
 .vscode/
 venv/
+pipeline-setup.sh
