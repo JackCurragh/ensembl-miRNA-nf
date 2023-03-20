@@ -37,7 +37,6 @@ with open("formatted_clades.txt", "w") as outfile:
 }
 
 process MATCH_CLADE {
-    conda 'conda/match_clade.yaml'
 
     input:
         val(species)
