@@ -4,3 +4,4 @@ data/
 singularity/
 *.gz
 .vscode/
+venv/
