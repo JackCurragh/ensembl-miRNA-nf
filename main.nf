@@ -1,3 +1,4 @@
+nextflow.enable.dsl = 2
 
 include { mirMachine } from './subworkflows/local/mirMachine.nf'
 
