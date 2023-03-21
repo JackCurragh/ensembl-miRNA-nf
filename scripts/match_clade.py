@@ -16,7 +16,7 @@ Example:
 import argparse
 import ete3
 from ete3 import NCBITaxa
-
+import taxoniq 
 
 def check_lineage_order(species: str, lineage: list) -> bool:
     """
@@ -56,7 +56,10 @@ def taxoniq_match(species: str, taxid: int, tool_lineage: list) -> str:
     str
         Closest match
     """
-    t = taxoniq.Taxon(taxid)
+    try:
+        t = taxoniq.Taxon(taxid)
+    except Exception as e:
+        return e
     lineage = [t.scientific_name for t in t.ranked_lineage]
     if not check_lineage_order(t.scientific_name, lineage):
         lineage = lineage[::-1]
@@ -159,7 +162,7 @@ def get_taxid(ncbi: ete3.ncbi_taxonomy.ncbiquery.NCBITaxa, species_name: str) ->
 
     
 
-def get_clade_match(clades: list, species_name: str) -> str:
+def get_clade_match(ncbi: ete3.ncbi_taxonomy.ncbiquery.NCBITaxa, clades: list, species_name: str) -> str:
     """
     Given a list of clades and a species name, return the closest match
 
@@ -177,16 +180,7 @@ def get_clade_match(clades: list, species_name: str) -> str:
     """
     if not check_lineage_order(species_name, clades):
         clades = clades[::-1]
-    
-    ncbi = get_ncbi()
-    taxon_id = get_taxid(ncbi, species_name)
-    # match = taxoniq_match(species_name, taxon_id, clades)
-    match = []
-    if match == []:
-        match = ete3_match(ncbi, species_name, clades)
-    if match == []:
-        raise ValueError("No match found")
-    return match
+    return ete3_match(ncbi, species_name, clades)
 
 
 def main(args: argparse.Namespace) -> None:
@@ -201,7 +195,11 @@ def main(args: argparse.Namespace) -> None:
     with open(args.clades, "r") as file:
         clades = [line[:max(line.find(' '), 0) or None] for line in file]
         
-    clade_match = get_clade_match(clades, args.species)
+    ncbi = get_ncbi()
+
+    taxon_id = get_taxid(ncbi, args.species)
+    match = taxoniq_match(args.species, taxon_id, clades)
+    clade_match = get_clade_match(ncbi, clades, args.species)
 
     if clade_match == []:
         raise ValueError("No match found")

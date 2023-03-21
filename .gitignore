@@ -6,3 +6,4 @@ singularity/
 .vscode/
 venv/
 pipeline-setup.sh
+conda.sif
