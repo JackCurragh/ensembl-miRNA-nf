@@ -25,12 +25,13 @@ def main(args):
         clades = [line[:max(line.find(' '), 0) or None] for line in file]
 
     species = pd.read_csv(args.species, header=0)
-    print(species.head())
 
     ncbi = get_ncbi()
     results = []
     for idx, row in species.iterrows():
-        species_name = row['Scientific name']
+        if row['Clade'] == "Plants":
+            continue
+        species_name = row['Scientific name'].split(" ")[0] + " " + row['Scientific name'].split(" ")[1]
         try:
             match = get_clade_match(ncbi, clades, species_name)[0]
         except Exception as e:
@@ -39,20 +40,20 @@ def main(args):
             elif str(e) == "No match found":
                 match = 'No match found'
             else:
-                print(e)
+                raise e
 
         try:
-            taxon_id = row['Taxon ID']
-            tx_match = taxoniq_match(args.species, taxon_id, clades)[0]
+            taxid = get_taxid(ncbi, species_name)
+            tx_match = taxoniq_match(species_name, taxid, clades)[0]
         except Exception as e:
             if str(e) == "list index out of range":
-                match = 'Taxid finding issue'
+                tx_match = 'Taxid finding issue'
             elif str(e) == "No match found":
-                match = 'No match found'
+                tx_match = 'No match found'
             elif str(e) == "'KeyError' object is not subscriptable":
-                match = 'Taxid finding issue'
+                tx_match = 'Taxid finding issue'
             else:
-                print(e)
+                raise e
         results.append([species_name, match, tx_match])
 
 

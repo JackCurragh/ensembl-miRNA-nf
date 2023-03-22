@@ -16,8 +16,10 @@ Example:
 import argparse
 import ete3
 from ete3 import NCBITaxa
-import taxoniq 
-
+try:
+    import taxoniq
+except ImportError:
+    pass
 def check_lineage_order(species: str, lineage: list) -> bool:
     """
     Return True if the lineage is in the correct order (from higher to lower)
@@ -96,10 +98,8 @@ def ete3_match(ncbi: ete3.ncbi_taxonomy.ncbiquery.NCBITaxa, species: str, tool_l
         Closest match
     """
 
-    name2taxid = ncbi.get_name_translator([species])
-    taxon_id = str(list(name2taxid.values())[0]).strip("[]")
+    taxon_id = get_taxid(ncbi, species)
     lineage = ncbi.get_lineage(taxon_id)
-
     names = ncbi.get_taxid_translator(lineage)
     lineage_list = [names[taxid] for taxid in lineage]
     if not check_lineage_order(species, lineage_list):
@@ -178,6 +178,7 @@ def get_clade_match(ncbi: ete3.ncbi_taxonomy.ncbiquery.NCBITaxa, clades: list, s
     str
         Closest match
     """
+    species_name = ' '.join(species_name.split(" ")[:2])
     if not check_lineage_order(species_name, clades):
         clades = clades[::-1]
     return ete3_match(ncbi, species_name, clades)
@@ -196,9 +197,6 @@ def main(args: argparse.Namespace) -> None:
         clades = [line[:max(line.find(' '), 0) or None] for line in file]
         
     ncbi = get_ncbi()
-
-    taxon_id = get_taxid(ncbi, args.species)
-    match = taxoniq_match(args.species, taxon_id, clades)
     clade_match = get_clade_match(ncbi, clades, args.species)
 
     if clade_match == []:
