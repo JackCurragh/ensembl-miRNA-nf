@@ -7,3 +7,4 @@ singularity/
 venv/
 pipeline-setup.sh
 *.sif
+*.pyc
