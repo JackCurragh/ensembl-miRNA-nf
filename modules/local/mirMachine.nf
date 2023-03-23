@@ -9,8 +9,7 @@ process MIRMACHINE {
         file fasta
 
     output:
-        file "*.fa*"
-        file "*/*.gff*"
+        path "*"
 
     script:
         """

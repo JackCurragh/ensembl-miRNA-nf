@@ -1,6 +1,6 @@
 Bootstrap: docker
 
-From: python:3.7-alpine
+From: ubuntu:20.04
 
 %post
     apk update
