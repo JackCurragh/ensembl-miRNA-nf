@@ -1,0 +1,64 @@
+---
+  title: "microRNA_score_base_VmP_22MArch2023"
+author: "Vanessa.M.Paynter"
+date: '2023-03-22'
+---
+  
+  
+  
+  
+  ```{r}
+
+library(dplyr)
+library(readr)
+library(tidyverse)
+library(tidyr)
+
+```
+
+
+
+#Input files
+```{r}
+
+# from the heatmaps folder, collate data then, make 1 file as input for R and 1 file containing species and tot family count info
+# collate: in heatmap folder,  cat *csv | cut -f1,2,7,8 | grep -v species | awk 'BEGIN{print "species,mode,family,node,tgff,filtered"}{sub(".PRE",""); print}' > ensembl_mammals_heatmap.csv
+# For R input file: cat rodent_heatmap_new.csv | sed '/^#/d' > ensembl_mammals_heatmap_for_R.csv to cut out all lines beginning with '#' from the csv to get only columns of spp, mode, node, fam, tgff, filtered 
+# For metadata info file: grep -E '# Total families searched:|# Species:' ensembl_mammals_heatmap.csv | awk 'NR%2{printf "%s,",$0;next;}1'| tr ' ' ',' > ensembl_mammals_metadata.csv
+
+
+mammals_heatmap = read.csv("~/Work/mirmachine_plots/ensembl_mammals_heatmap_for_R.csv", sep=",",stringsAsFactors = FALSE)
+mammals_heatmap <- mutate(mammals_heatmap, family = toupper (family))
+mirmachine_output_metadata = read.csv("~/Work/mirmachine_plots/ensembl_mammals_metadata.csv", sep=",")
+
+
+```
+
+
+
+
+#microRNA score calculation
+```{r}
+# Extract tot families searched for 
+mirmachine_total_families_searched <- mirmachine_output_metadata$X215[1]
+analysis_node <- mammals_heatmap$mode[1]
+#Filtered data
+mammals_filtered_score <- mammals_heatmap %>% select(-tgff) %>% group_by(species) %>% filter(!is.na(filtered)) %>% summarise(filtered_total_count=n(), .groups = 'drop')  %>% mutate(filtered_microRNA_score = (filtered_total_count/mirmachine_total_families_searched)*100)
+
+#Unfiltered data
+mammals_unfiltered_score <- mammals_heatmap %>% select(-filtered) %>% group_by(species) %>% filter(!is.na(tgff)) %>% summarise(unfiltered_total_count=n(), .groups = 'drop')  %>% mutate(unfiltered_microRNA_score = (unfiltered_total_count/mirmachine_total_families_searched)*100)
+
+mammals_score_df <- mammals_filtered_score %>% full_join(mammals_unfiltered_score) %>% mutate(analysis_node)
+#microRNA families that have been filtered out
+family_ID <- mammals_heatmap %>% filter(is.na(filtered)) %>% select(species,family,tgff) %>% filter(!is.na(tgff)) %>% group_by(species) %>% summarise(filtered_out_families = paste(family, collapse = ", ")) 
+#filtered families with 0 hits
+mammals_filtered_missing <- mammals_heatmap %>% filter(is.na(filtered))  %>%  filter(if_all(c(tgff, filtered), is.na)) %>% select(species,family,filtered) %>% group_by(species) %>% summarise(filtered_no_hits = paste(family, collapse = ", ")) 
+
+
+#final output
+microRNA_score_table <- mammals_score_df %>% left_join(family_ID) %>% left_join(mammals_filtered_missing) %>%  mutate_if(is.numeric, round, digits=2)
+microRNA_score_table <- microRNA_score_table[, c(1, 6, 2, 3, 8, 4, 5, 7)]
+write.table(microRNA_score_table, "microRNA_score_output.tsv")
+
+
+```
