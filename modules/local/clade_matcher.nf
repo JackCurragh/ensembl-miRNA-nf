@@ -1,5 +1,6 @@
 
 process LIST_MIRMACHINE_CLADES {
+    container ${params.container}
     
     output:
         path "*txt"
@@ -37,7 +38,7 @@ with open("formatted_clades.txt", "w") as outfile:
 }
 
 process MATCH_CLADE {
-
+    container ${params.container}
     input:
         val(species)
         val(accession)
