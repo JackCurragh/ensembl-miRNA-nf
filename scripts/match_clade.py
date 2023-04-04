@@ -20,6 +20,8 @@ try:
     import taxoniq
 except ImportError:
     pass
+
+
 def check_lineage_order(species: str, lineage: list) -> bool:
     """
     Return True if the lineage is in the correct order (from higher to lower)

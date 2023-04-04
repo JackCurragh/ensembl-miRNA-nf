@@ -37,7 +37,6 @@ with open("formatted_clades.txt", "w") as outfile:
 }
 
 process MATCH_CLADE {
-    container '/home/jack/projects/ensembl-miRNA-nf/ete3.sif'
 
     input:
         val(species)
@@ -49,7 +48,7 @@ process MATCH_CLADE {
 
     script:
         """
-        python $projectDir/scripts/match_clade.py -s "${species}" -c $clade_file --output stdout
+        python3 $projectDir/scripts/match_clade.py -s "${species}" -c $clade_file --output stdout
         """
 
 }
