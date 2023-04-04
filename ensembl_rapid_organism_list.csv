@@ -1,4 +1,4 @@
-"Scientific name","New","Common name","Clade","Taxon ID","Assembly name","Accession","Genome size (bps)","Annotation provider","Annotation method","Annotation","Genome","RNA Seq"
+"Scientific_name","New","Common_name","Clade","Taxon_ID","Assembly_name","Accession","Genome_size_bps","Annotation_provider","Annotation_method","Annotation","Genome","RNA_Seq"
 "Abrostola tripartita","","Moths (alternate haplotype)","Lepidoptera","938171","ilAbrTrip1.1_alternate_haplotype","GCA_905340255.1","377898841","Ensembl","Ensembl Genebuild","FASTA/GTF/GFF3/TSV","FASTA",""
 "Abrostola tripartita","","Moths","Lepidoptera","938171","ilAbrTrip1.1","GCA_905340225.1","381042155","Ensembl","Ensembl Genebuild","FASTA/GTF/GFF3/TSV","FASTA",""
 "Acanthaster planci","","Crown-of-thorns starfish","Metazoa","133434","OKI_Apl_1.0","GCA_001949145.1","383860178","NCBI","Import","FASTA/GTF/GFF3/TSV","FASTA",""
