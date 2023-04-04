@@ -15,6 +15,11 @@ log.info """\
 
 
 workflow {
+    inputs = Channel
+        .fromPath(params.csv)
+        .splitCsv(header: true)
+        .map { row -> tuple("${row.Accession}", "${row.SRA}" )} // use for superset  
 
-    mirMachine(params.species, params.accession, params.mirMachine_clades)
+    main:
+        mirMachine(params.species, params.accession, params.mirMachine_clades)
 }

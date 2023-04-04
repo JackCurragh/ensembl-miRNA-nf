@@ -1,7 +1,7 @@
 
 process MIRMACHINE {
     container "${params.container}"
-    publishDir "${params.outdir}/mirmachine", mode: 'copy'
+    publishDir "${params.outdir}/mirmachine/${params.species}_${params.accession}", mode: 'copy'
     
     input:
         val(species)
@@ -9,7 +9,7 @@ process MIRMACHINE {
         file fasta
 
     output:
-        path "*"
+        path "results/predictions/*"
 
     script:
         """
