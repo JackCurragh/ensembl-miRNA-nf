@@ -1,6 +1,6 @@
 
 process MIRMACHINE {
-    container ${params.container}
+    container "${params.container}"
     publishDir "${params.outdir}/mirmachine", mode: 'copy'
     
     input:
