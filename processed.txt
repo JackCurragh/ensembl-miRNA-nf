@@ -1,0 +1,1046 @@
+total 41M
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 12:15 Abrostola_tripartita_GCA_905340225.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 12:07 Abrostola_tripartita_GCA_905340255.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 12:21 Acanthaster_planci_GCA_001949145.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 12:39 Acanthopagrus_latus_GCA_904848185.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 13:03 Accipiter_gentilis_GCA_012487025.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 14:41 Acentria_ephemerella_GCA_943193645.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 14:42 Acentria_ephemerella_GCA_943193655.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:01 Acipenser_ruthenus_GCA_902713435.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:08 Acleris_emargana_GCA_927399445.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 14:45 Acleris_emargana_GCA_927399475.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:09 Acleris_sparsana_GCA_923061745.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:09 Acleris_sparsana_GCA_923062465.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:20 Acomys_cahirinus_GCA_004027535.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:31 Acomys_dimidiatus_GCA_907164435.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:09 Acrobasis_suavella_GCA_943193685.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:12 Acrobasis_suavella_GCA_943193695.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:08 Acromyrmex_echinatior_GCA_000204515.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:24 Acronicta aceris_GCA_910591435.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:09 Acronicta_aceris_GCA_910591495.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:03 Acropora_millepora_GCA_013753865.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:27 Actinia equina_GCA_011057435.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 13:26 Actinia tenebrosa_GCA_009602425.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:10 Acyrthosiphon_pisum_GCA_005508785.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:06 Adalia_bipunctata_GCA_910591895.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:17 Adalia bipunctata_GCA_910592335.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:05 Aethina_tumida_GCA_024364635.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:06 Aethina_tumida_GCA_024364675.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:09 Agonopterix_subpropinquella_GCA_922987765.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:08 Agonopterix_subpropinquella_GCA_922987775.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:08 Agrilus_planipennis_GCA_000699045.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:08 Agriopis_aurantiaria_GCA_914767795.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:08 Agriopis_aurantiaria_GCA_914767915.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:34 Agriopis marginaria_GCA_932301435.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:08 Agriopis_marginaria_GCA_932305915.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:21 Agriotes_lineatus_GCA_940337035.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:09 Agriphila_geniculea_GCA_927399405.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:08 Agriphila_geniculea_GCA_927400025.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:11 Agriphila_geniculea_GCA_943789515.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:09 Agriphila_geniculea_GCA_943789525.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:10 Agriphila_tristella_GCA_928269145.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:10 Agriphila_tristella_GCA_928269205.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:10 Agrochola_circellaris_GCA_914767685.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:08 Agrochola_circellaris_GCA_914767755.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:08 Agrochola_macilenta_GCA_916701695.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 13:33 Agrochola macilenta_GCA_916701705.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:09 Agrotis_puta_GCA_943136025.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:13 Agrypnus_murinus_GCA_929113105.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:10 Agrypnus_murinus_GCA_929114945.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:48 Ailuropoda_melanoleuca_GCA_002007445.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 13:31 Allophyes oxyacanthae_GCA_932294325.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:40 Allophyes_oxyacanthae_GCA_932294395.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:52 Alosa_sapidissima_GCA_018492685.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:01 Amblyraja_radiata_GCA_010909765.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:39 Amblyteles_armatorius_GCA_933228735.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:49 Ameiurus_melas_GCA_012411365.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:41 Amphibalanus_amphitrite_GCA_019059575.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:37 Amphimedon_queenslandica_GCA_000090795.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:41 Amphipyra_berbera_GCA_910594945.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 13:33 Amphipyra berbera_GCA_910594945.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 13:32 Amphipyra berbera_GCA_910595045.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:45 Amphipyra_tragopoginis_GCA_905220425.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:46 Amphipyra_tragopoginis_GCA_905220435.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:39 Amyelois_transitella_GCA_001186105.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 13:41 Anabas testudineus_GCA_900324465.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:51 Anabas_testudineus_GCA_900324465.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:46 Anabas_testudineus_GCA_900324465.3
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:57 Anableps_anableps_GCA_014839685.1
+drwxr-sr-x 4 jackt ensembl   48 Apr  4 10:06 analyses
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:50 Anas_platyrhynchos_GCA_015476345.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 13:39 Anas platyrhynchos_GCA_017639285.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:58 Anas_platyrhynchos_GCA_017639305.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:59 Anas_zonorhyncha_GCA_002224875.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:39 Ancistrocerus_nigricornis_GCA_916049575.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:39 Ancistrocerus_nigricornis_GCA_916050135.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:40 Andrena_dorsata_GCA_929108735.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 13:29 Andrena dorsata_GCA_929114765.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:39 Andrena_haemorrhoa_GCA_910592125.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:39 Andrena_haemorrhoa_GCA_910592295.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:41 Andrena_hattorfiana_GCA_944738655.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:40 Andrena_minutula_GCA_929113085.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:40 Andrena_minutula_GCA_929113495.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:41 Anneissia_japonica_GCA_011630105.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:06 Anolis_carolinensis_GCA_000090745.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:39 Anopheles_aquasalis_GCA_943734665.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:36 Anopheles atroparvus_GCA_914969975.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:39 Anopheles_bellator_GCA_943735745.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:40 Anopheles_coustani_GCA_943734705.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:38 Anopheles_cruzii_GCA_943734635.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:38 Anopheles_darlingi_GCA_943734745.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:39 Anopheles_gambiae_GCA_943734735.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:38 Anopheles_maculipalpis_GCA_943734695.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:39 Anopheles_marshallii_GCA_943734725.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:39 Anopheles_nili_GCA_943737925.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:39 Anopheles_ziemanni_GCA_943734765.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:43 Anoplius_nigerrimus_GCA_914767735.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:43 Anoplius_nigerrimus_GCA_914767785.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:59 Anser_cygnoides_domesticus_GCA_000971095.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:45 Anthocharis_cardamines_GCA_905404175.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:48 Anthonomus_grandis_grandis_GCA_022605725.3
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:39 Apamea monoglypha_GCA_911387735.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:40 Apamea monoglypha_GCA_911387795.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:47 Apeira_syringaria_GCA_934044485.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:44 Apeira_syringaria_GCA_934045895.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:43 Aphidius_gifuensis_GCA_014905175.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:43 Apis_dorsata_GCA_000469605.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:43 Aplocera_efformata_GCA_921293035.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:43 Aplocera_efformata_GCA_921293045.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:47 Aplysia_californica_GCA_000002075.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 13:30 Aporia crataegi_GCA_912999735.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:43 Aporia_crataegi_GCA_912999795.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:43 Aporia_crataegi_GCA_912999795.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:52 Aporophyla_lueneburgensis_GCA_932294355.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:51 Aporophyla_lueneburgensis_GCA_932294405.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 13:36 Apotomis betuletana_GCA_932273695.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:45 Apotomis_betuletana_GCA_932273875.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:46 Apotomis_turbidana_GCA_905147195.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:50 Apotomis_turbidana_GCA_905147355.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:03 Aptenodytes_patagonicus_GCA_010087175.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:01 Aquila_chrysaetos_chrysaetos_GCA_900496995.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:56 Archocentrus_centrarchus_GCA_007364275.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:45 Aricia_agestis_GCA_905147365.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 13:31 Aricia agestis_GCA_944452645.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:45 Aricia_agestis_GCA_944452695.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:43 Aricia_artaxerxes_GCA_937610355.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:45 Aricia_artaxerxes_GCA_937612035.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:02 Artibeus_jamaicensis_GCA_004027435.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:44 Artibeus_jamaicensis_GCA_014825515.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:49 Arvicanthis_niloticus_GCA_011762505.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:54 Arvicola_amphibius_GCA_903992535.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:25 Arvicola amphibius_GCA_903992535.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:00 Astatotilapia_calliptera_GCA_900246225.3
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:42 Astatotilapia calliptera_GCA_900246225.5
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:43 Asterias_rubens_GCA_902459465.3
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:05 Astyanax_mexicanus_GCA_019721115.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:05 Astyanax_mexicanus_GCA_023375835.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:05 Astyanax_mexicanus_GCA_023375845.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:04 Astyanax_mexicanus_GCA_023375975.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:21 Ateles_geoffroyi_GCA_004024785.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:47 Atethmia_centrago_GCA_905332945.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:51 Atethmia_centrago_GCA_905333075.3
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:00 Athalia_rosae_GCA_000344095.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 15:59 Athalia_rosae_GCA_917207985.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:00 Athalia_rosae_GCA_917208135.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:01 Autographa_gamma_GCA_905146835.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:02 Autographa_gamma_GCA_905146925.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:03 Autographa_pulchrina_GCA_905475315.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:03 Autographa_pulchrina_GCA_905475435.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:02 Bactrocera_dorsalis_GCA_000789215.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:03 Bactrocera_latifrons_GCA_001853355.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 13:34 Bactrocera tryoni_GCA_016617805.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:57 Balaenoptera_musculus_GCA_009873245.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:47 Balaenoptera_musculus_GCA_009873245.3
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:03 Bellardia_pandia_GCA_916048285.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:05 Bellardia_pandia_GCA_916050155.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:03 Bembecia_ichneumoniformis_GCA_910589475.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:02 Bembecia_ichneumoniformis_GCA_910589565.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:07 Betta_splendens_GCA_900634795.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:08 Betta_splendens_GCA_900634795.3
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:02 Bibio_marci_GCA_910594885.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:02 Bibio_marci_GCA_910594895.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:36 Bicyclus anynana_GCA_900239965.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:04 Biston_betularia_GCA_905404145.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:04 Biston_betularia_GCA_905404145.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:03 Biston_betularia_GCA_905404215.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:01 Blastobasis_adustella_GCA_907269055.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:03 Blastobasis_adustella_GCA_907269095.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:03 Blastobasis_lacticolella_GCA_905147135.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:05 Blastobasis_lacticolella_GCA_905147205.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 13:30 Boloria selene_GCA_905231865.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:01 Boloria_selene_GCA_905231875.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:00 Bombus_bifarius_GCA_011952205.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:34 Bombus breviceps_GCA_014825925.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:35 Bombus campestris_GCA_905333015.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:01 Bombus_confusus_GCA_014737475.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:00 Bombus_consobrinus_GCA_014737455.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:01 Bombus_difficillimus_GCA_014737525.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 13:29 Bombus haemorrhoidalis_GCA_014825975.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:43 Bombus hortorum_GCA_905332935.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:02 Bombus_huntii_GCA_024542735.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:02 Bombus_hypnorum_GCA_911387925.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:00 Bombus_ignitus_GCA_014825875.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:00 Bombus_impatiens_GCA_000188095.4
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:00 Bombus_opulentus_GCA_014737405.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 13:30 Bombus pascuorum_GCA_905332965.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:01 Bombus_pascuorum_GCA_905332995.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:01 Bombus_picipes_GCA_014737485.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:00 Bombus_polaris_GCA_014737335.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:09 Bombus_pratorum_GCA_930367225.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:11 Bombus_pratorum_GCA_930367275.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:09 Bombus_pyrosoma_GCA_014825855.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:10 Bombus_sibiricus_GCA_014737505.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:10 Bombus_skorikovi_GCA_014737355.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:34 Bombus soroeensis_GCA_014737365.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:10 Bombus_superbus_GCA_014737385.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:12 Bombus_sylvestris_GCA_911622165.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:09 Bombus_terrestris_GCA_000214255.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:11 Bombus_terrestris_GCA_910591885.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:10 Bombus_terrestris_GCA_910591885.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:10 Bombus_terrestris_GCA_910592195.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:10 Bombus_turneri_GCA_014825825.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:09 Bombus_vosnesenskii_GCA_011952255.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:10 Bombus_waltoni_GCA_014737395.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:09 Bombylius_discolor_GCA_939192785.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:38 Bombylius discolor_GCA_939192795.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:11 Bombylius_major_GCA_932526495.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:09 Bombylius_major_GCA_932526615.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 13:31 Bombyx mandarina_GCA_003987935.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:38 Bos_gaurus_GCA_014182915.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:27 Bos_mutus_GCA_007646595.3
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:13 Brachylomia_viminalis_GCA_937001565.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:16 Brachylomia_viminalis_GCA_937001585.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:35 Brassicogethes aeneus_GCA_921294245.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:10 Brenthis_ino_GCA_921882275.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:09 Buathra_laborator_GCA_934046145.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:10 Buathra_laborator_GCA_934046635.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:18 Bubalus_bubalis_GCA_003121395.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:24 Bufo_bufo_GCA_905171765.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:12 Bufo_gargarizans_GCA_014858855.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:27 Cairina_moschata_domestica_GCA_009194515.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:12 Calamotropha_paludella_GCA_927399485.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:15 Calliphora_vomitoria_GCA_942486065.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:15 Calliphora_vomitoria_GCA_942486075.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:37 Callithrix_jacchus_GCA_011100555.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:21 Callorhinus_ursinus_GCA_003265705.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:27 Camarhynchus_parvulus_GCA_902806625.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:11 Camelus_ferus_GCA_009834535.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:11 Campaea_margaritaria_GCA_912999775.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:11 Campaea_margaritaria_GCA_912999815.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:11 Camponotus_floridanus_GCA_003227725.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:30 Canis_lupus_familiaris_GCA_000002285.4
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:30 Canis_lupus_familiaris_GCA_004886185.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:08 Canis lupus familiaris_GCA_004886185.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:14 Canis_lupus_familiaris_GCA_005444595.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:50 Canis_lupus_familiaris_GCA_008641055.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:50 Canis_lupus_familiaris_GCA_008641055.3
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:34 Canis_lupus_familiaris_GCA_011100685.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:54 Canis_lupus_familiaris_GCA_014441545.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:01 Canis_lupus_GCA_905319855.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:42 Cantharis_rustica_GCA_911387805.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:45 Cantharis_rustica_GCA_911387815.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:08 Capra_hircus_GCA_001704415.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:29 Capra_hircus_GCA_004361675.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:56 Capreolus_pygargus_GCA_012922965.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:43 Caradrina_clavipalpis_GCA_932526345.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:46 Caradrina_clavipalpis_GCA_932526535.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:50 Carcharodon_carcharias_GCA_017639515.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:44 Carcina_quercana_GCA_910589345.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:44 Carcina_quercana_GCA_910589575.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:08 Carcina_quercana_GCA_910589575.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:14 Caretta_caretta_GCA_023653815.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:08 Carposina_sasakii_GCA_014607495.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:45 Carterocephalus_palaemon_GCA_944567765.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:44 Carterocephalus_palaemon_GCA_944567795.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:16 Catharus_ustulatus_GCA_009819885.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:48 Catocala_fraxini_GCA_930367255.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:49 Catocala_fraxini_GCA_930367265.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:52 Cavia_tschudii_GCA_004027695.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:46 Celastrina_argiolus_GCA_905147145.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:43 Celastrina_argiolus_GCA_905187575.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:49 Centruroides_sculpturatus_GCA_000671375.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:43 Ceratitis_capitata_GCA_000347755.4
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:28 Ceratotherium_simum_cottoni_GCA_021442165.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:57 Ceratotherium_simum_simum_GCA_023653735.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:44 Cerceris_rybyensis_GCA_910591445.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:44 Cerceris_rybyensis_GCA_910591515.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:29 Cervus_hanglu_yarkandensis_GCA_010411085.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:46 Cheilosia_vulpina_GCA_916610125.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:44 Cheilosia_vulpina_GCA_916610195.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:35 Cheirogaleus_medius_GCA_004024725.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:50 Chelmon_rostratus_GCA_017976325.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:41 Chelonus_insularis_GCA_013357705.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:43 Cheumatopsyche_charites_GCA_024721215.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:40 Chironomus riparius_GCA_917627325.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:59 Chiroxiphia_lanceolata_GCA_009829145.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:46 Chloroclysta_siterata_GCA_932294275.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:43 Chloroclysta_siterata_GCA_932294285.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:34 Choloepus_didactylus_GCA_015220235.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:17 Chrysemys_picta_GCA_011386835.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:38 Chrysodeixis includens_GCA_903961255.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:45 Chrysolina oricalcia_GCA_944452925.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:05 Chrysoteuchia_culmella_GCA_910589605.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:04 Chrysotoxum_bicinctum_GCA_911387745.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:03 Chrysotoxum_bicinctum_GCA_911387755.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:37 Cimex lectularius_GCA_000648675.3
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 13:36 Cistogaster globosa_GCA_937654215.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:20 Clarias_gariepinus_GCA_024256425.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:03 Clostera_curtula_GCA_905475325.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:01 Clostera_curtula_GCA_905475355.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:37 Clostera curtula_GCA_905475355.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:32 Clytia hemisphaerica_GCA_902728285.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 13:34 Cnaphalocrocis medinalis_GCA_014851415.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:01 Coccinella_septempunctata_GCA_907165185.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:39 Coccinella septempunctata_GCA_907165205.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:00 Colias_croceus_GCA_905220415.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 16:59 Colletes_gigas_GCA_013123115.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:03 Copidosoma_floridanum_GCA_000648655.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:08 Coremacera_marginata_GCA_914767655.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:09 Coremacera_marginata_GCA_914767935.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:15 Corvus_moneduloides_GCA_009650515.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:17 Corvus_moneduloides_GCA_009650955.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:07 Cosmia_trapezina_GCA_905163495.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:40 Cotesia glomerata_GCA_020080835.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:12 Cottoperca_gobio_GCA_900634415.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:02 Craniophora_ligustri_GCA_905163585.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:38 Crassostrea gigas_GCA_902806645.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:02 Crassostrea_virginica_GCA_002022765.4
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:01 Criorhina_berberina_GCA_917880715.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:01 Criorhina_berberina_GCA_917880715.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:01 Criorhina_berberina_GCA_917880925.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:01 Crocallis_elinguaria_GCA_907269065.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:02 Crocallis_elinguaria_GCA_907269135.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:17 Cuculus_canorus_GCA_017976375.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:01 Culex_quinquefasciatus_GCA_015732765.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:13 Culter_alburnus_GCA_009869775.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:03 Cyaniris_semiargus_GCA_905147265.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:01 Cyaniris_semiargus_GCA_905187585.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:07 Cyclopterus_lumpus_GCA_009769545.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:04 Cydia_splendana_GCA_910591525.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:03 Cydia_splendana_GCA_910591565.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:48 Cyprinus carpio carpio_GCA_905221575.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 13:29 Danaus plexippus plexippus_GCA_009731565.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 13:29 Daphnia magna_GCA_020631705.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:33 Daphnia pulex_GCA_021134715.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:32 Daphnia pulicaria_GCA_021234035.2
+drwxr-sr-x 3 jackt ensembl   23 Apr  4 10:06 data
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 13:33 Deilephila porcellus_GCA_905220455.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:32 Delphinapterus leucas_GCA_009917725.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 13:30 Dendroctonus ponderosae_GCA_000355655.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:43 Denticeps clupeoides_GCA_900700375.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:44 Dermacentor silvarum_GCA_013339745.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:32 Dermatophagoides pteronyssinus_GCA_001901225.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 13:47 Diabrotica virgifera virgifera_GCA_917563875.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:35 Diachrysia chrysitis_GCA_932294365.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:39 Diarsia rubi_GCA_932274075.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:49 Dicentrarchus labrax_GCA_905237075.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:35 Diuraphis noxia_GCA_001186385.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:34 Dolichovespula media_GCA_911387685.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:35 Dolichovespula media_GCA_911387715.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:40 Dolichovespula saxonica_GCA_911387935.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:40 Dolichovespula sylvestris_GCA_918808275.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:47 Dromaius novaehollandiae_GCA_016128335.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:44 Dryobotodes eremita_GCA_917490735.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:35 Dufourea novaeangliae_GCA_001272555.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:44 Echeneis naucrates_GCA_900963305.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:33 Echinococcus granulosus_GCA_000524195.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:34 Ecliptopera silaceata_GCA_932527285.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:34 Ectemnius continuus_GCA_910591665.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:34 Ectemnius lituratus_GCA_910593735.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:08 Ectemnius_lituratus_GCA_910593735.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:16 Ectropis_grisescens_GCA_017562165.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:12 Eilema_depressum_GCA_914767765.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:12 Eilema_depressum_GCA_914767945.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:15 Eilema_sororculum_GCA_914829255.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:39 Eilema sororculum_GCA_914829495.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:19 Electrophorus_electricus_GCA_013358815.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:07 Emmelina_monodactyla_GCA_916618085.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:07 Emmelina_monodactyla_GCA_916618085.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:07 Emmelina_monodactyla_GCA_916618145.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:09 Endotricha_flammealis_GCA_905160925.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:17 Enhydra_lutris_kenyoni_GCA_002288905.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:09 Ennomos_fuscantarius_GCA_905220475.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:11 Ennomos_fuscantarius_GCA_905220475.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:37 Ennomos fuscantarius_GCA_905220485.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:08 Ennomos_quercinarius_GCA_910589225.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:37 Ennomos quercinarius_GCA_910589525.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:09 Ephestia_elutella_GCA_018467065.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:09 Epicampocera_succincta_GCA_932526305.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:07 Epicampocera_succincta_GCA_932527255.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:12 Epinotia_nisella_GCA_932294315.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:09 Epinotia_nisella_GCA_932294385.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:10 Epistrophe_grossulariae_GCA_929447395.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:14 Equus_asinus_GCA_016077325.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:09 Erannis_defoliaria_GCA_905404285.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:12 Erebia_aethiops_GCA_923060345.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:35 Erebia aethiops_GCA_923060345.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:08 Erebia_aethiops_GCA_923062935.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:10 Erebia_aethiops_GCA_923062935.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:38 Erebia ligea_GCA_917050995.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:10 Erebia_ligea_GCA_917051295.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:35 Eristalinus sepulchralis_GCA_944738645.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:35 Eristalinus sepulchralis_GCA_944738805.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:10 Eristalis_arbustorum_GCA_916610145.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:10 Eristalis_arbustorum_GCA_916610155.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:09 Eristalis_pertinax_GCA_907269085.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:10 Eristalis_tenax_GCA_905231845.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:08 Eristalis_tenax_GCA_905231855.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:10 Eristalis_tenax_GCA_905231855.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 15:02 Erpetoichthys calabaricus_GCA_900747795.2
+-rw-r--r-- 1 jackt ensembl 143K Apr  4 10:06 err_file
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:10 Erynnis_tages_GCA_905147235.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:10 Erynnis_tages_GCA_905147245.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:26 Esox_lucius_GCA_011004845.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:22 Euclidia_mi_GCA_944738845.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:17 Euclidia_mi_GCA_944739405.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:34 Eudyptes_chrysocome_GCA_010085355.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:27 Eudyptes_filholi_GCA_010085365.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:33 Eudyptes_moseleyi_GCA_010082375.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:29 Eudyptes_pachyrhynchus_GCA_010085335.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:33 Eudyptes_robustus_GCA_010085315.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:31 Eudyptes_sclateri_GCA_010078445.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:37 Eueides isabella_GCA_019049475.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:17 Eufriesea_mexicana_GCA_001483705.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:13 Eulithis_prunata_GCA_918843925.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:34 Eulithis prunata_GCA_918843955.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:02 Eumetopias_jubatus_GCA_004028035.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:18 Eupeodes_latifasciatus_GCA_920104105.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:21 Eupeodes_latifasciatus_GCA_920104205.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:16 Eupithecia_abbreviata_GCA_943735965.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:36 Eupithecia abbreviata_GCA_943735975.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:16 Eupithecia_centaureata_GCA_944547425.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:14 Eupithecia_centaureata_GCA_944548335.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:44 Euplexia lucipara_GCA_921956305.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:17 Euplexia_lucipara_GCA_921972225.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:16 Euproctis_similis_GCA_905147225.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:17 Euproctis_similis_GCA_905147225.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:16 Eupsilia_transversa_GCA_914767805.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:17 Eupsilia_transversa_GCA_914767815.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:16 Eurytemora_affinis_GCA_000591075.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:18 Euschistus_heros_GCA_003667255.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:11 Exaiptasia_diaphana_GCA_001417965.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:15 Fabriciana_adippe_GCA_905404255.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:38 Fabriciana adippe_GCA_905404265.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:26 Falco_cherrug_GCA_000337975.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:32 Falco_peregrinus_GCA_012488915.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:56 Falco tinnunculus_GCA_010332995.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 15:28 Felis catus_GCA_013340865.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:34 Felis_catus_GCA_018350175.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:25 Ficedula_albicollis_GCA_000247815.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:13 Folsomia_candida_GCA_002217175.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:20 Furcula_furcula_GCA_911728485.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:18 Furcula_furcula_GCA_911728495.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:21 Gadus_morhua_GCA_010882105.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:22 Gadus_morhua_GCA_902167405.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:12 Galendromus_occidentalis_GCA_000255335.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:16 Galleria_mellonella_GCA_003640425.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:26 Gallus_gallus_GCA_000002315.5
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:51 Gallus gallus_GCA_016699485.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:30 Gallus_gallus_GCA_016700215.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:16 Gasterosteus_aculeatus_GCA_006232265.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:42 Gasterosteus_aculeatus_GCA_006232285.1
+-rw-r--r-- 1 jackt ensembl  57K Apr  4 10:06 GCA_001949145.1.fa.fai
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:46 Gibbula magus_GCA_936439675.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:43 Gibbula_magus_GCA_936450465.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:34 Gigantopelta_aegis_GCA_016097555.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:38 Glaucopsyche alexis_GCA_905404095.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:35 Glyphotaelius_pellucidus_GCA_936435175.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:04 Gopherus_evgoodei_GCA_007399415.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:50 Gouania_willdenowi_GCA_900634775.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:40 Griposia_aprilina_GCA_916610205.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:38 Griposia aprilina_GCA_916610245.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:42 Gymnodraco_acuticeps_GCA_902827175.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:30 Gymnoscelis_rufifasciata_GCA_929108375.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:38 Gymnosoma_rotundatum_GCA_916610165.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:35 Gymnosoma_rotundatum_GCA_916610175.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:35 Gymnosoma_rotundatum_GCA_916610175.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:30 Habrosyne_pyritoides_GCA_907165225.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:31 Habrosyne_pyritoides_GCA_907165245.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:34 Haliotis_rubra_GCA_003918875.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:36 Haliotis_rufescens_GCA_023055435.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:34 Halyzia_sedecimguttata_GCA_937616445.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:35 Halyzia_sedecimguttata_GCA_937662695.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:41 Harpagifer_antarcticus_GCA_902827135.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:37 Harpegnathos saltator_GCA_003227715.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:34 Hecatera_dysodea_GCA_905332915.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:40 Hecatera dysodea_GCA_905332915.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:35 Hedya_salicella_GCA_905404235.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:40 Hedya salicella_GCA_905404275.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:35 Hedya_salicella_GCA_905404275.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:31 Heliconius_sara_GCA_917862395.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:32 Helicoverpa_armigera_GCA_023701775.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:32 Hemaris_fuciformis_GCA_907164795.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:31 Hemaris_fuciformis_GCA_907164865.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:35 Hermetia_illucens_GCA_905115235.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:31 Hesperia_comma_GCA_905404135.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:30 Hesperia_comma_GCA_905404245.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:32 Hestina_assimilis_GCA_023373885.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:36 Heterocephalus_glaber_GCA_944319715.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 15:38 Heterocephalus glaber_GCA_944319725.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:33 Hipparchia_semele_GCA_933228805.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:32 Hipparchia_semele_GCA_933228835.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:41 Hippoglossus_hippoglossus_GCA_009819705.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:28 Hippopotamus_amphibius_GCA_004027065.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 15:07 Hipposideros armiger_GCA_001890085.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:48 Hirundo_rustica_GCA_015227805.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 17:46 Homarus_americanus_GCA_018991925.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:27 Homo_sapiens_GCA_009914755.4
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 20:17 Homo_sapiens_GCA_018466835.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:44 Homo_sapiens_GCA_018466845.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:27 Homo_sapiens_GCA_018466855.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:58 Homo_sapiens_GCA_018466985.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:48 Homo_sapiens_GCA_018467005.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:20 Homo_sapiens_GCA_018467015.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:13 Homo_sapiens_GCA_018467155.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:48 Homo_sapiens_GCA_018467165.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:15 Homo_sapiens_GCA_018469405.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 20:07 Homo_sapiens_GCA_018469415.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:03 Homo_sapiens_GCA_018469425.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:05 Homo_sapiens_GCA_018469665.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:12 Homo_sapiens_GCA_018469675.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:13 Homo_sapiens_GCA_018469685.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:27 Homo_sapiens_GCA_018469695.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:48 Homo_sapiens_GCA_018469705.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:11 Homo_sapiens_GCA_018469865.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:15 Homo_sapiens_GCA_018469875.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:31 Homo_sapiens_GCA_018469925.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:48 Homo_sapiens_GCA_018469935.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 15:41 Homo sapiens_GCA_018469955.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:34 Homo_sapiens_GCA_018469965.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:21 Homo_sapiens_GCA_018470425.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:42 Homo_sapiens_GCA_018470435.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:11 Homo_sapiens_GCA_018470445.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:11 Homo_sapiens_GCA_018470455.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:21 Homo_sapiens_GCA_018470465.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:12 Homo_sapiens_GCA_018471065.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:15 Homo_sapiens_GCA_018471075.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:18 Homo_sapiens_GCA_018471085.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:14 Homo_sapiens_GCA_018471105.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:04 Homo_sapiens_GCA_018471345.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:39 Homo_sapiens_GCA_018471515.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:41 Homo_sapiens_GCA_018471525.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:09 Homo_sapiens_GCA_018471535.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:24 Homo_sapiens_GCA_018471555.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:33 Homo_sapiens_GCA_018472565.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:08 Homo_sapiens_GCA_018472575.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:38 Homo_sapiens_GCA_018472585.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:56 Homo_sapiens_GCA_018472595.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:36 Homo_sapiens_GCA_018472605.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:03 Homo_sapiens_GCA_018472685.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:30 Homo_sapiens_GCA_018472695.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:07 Homo_sapiens_GCA_018472705.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:44 Homo_sapiens_GCA_018472715.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:35 Homo_sapiens_GCA_018472725.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:14 Homo_sapiens_GCA_018472825.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:52 Homo_sapiens_GCA_018472835.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 20:17 Homo_sapiens_GCA_018472845.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:13 Homo_sapiens_GCA_018472855.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:18 Homo_sapiens_GCA_018473295.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 20:12 Homo_sapiens_GCA_018473305.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:32 Homo_sapiens_GCA_018473315.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:20 Homo_sapiens_GCA_018503245.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:23 Homo_sapiens_GCA_018503255.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 20:00 Homo_sapiens_GCA_018503265.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:47 Homo_sapiens_GCA_018503275.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:31 Homo_sapiens_GCA_018503285.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:44 Homo_sapiens_GCA_018503525.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:00 Homo_sapiens_GCA_018503575.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:19 Homo_sapiens_GCA_018503585.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:33 Homo_sapiens_GCA_018504045.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:25 Homo_sapiens_GCA_018504055.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:37 Homo_sapiens_GCA_018504065.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:59 Homo_sapiens_GCA_018504075.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:28 Homo_sapiens_GCA_018504365.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:04 Homo_sapiens_GCA_018504375.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:55 Homo_sapiens_GCA_018504625.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:53 Homo_sapiens_GCA_018504645.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:16 Homo_sapiens_GCA_018504655.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:35 Homo_sapiens_GCA_018504665.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:12 Homo_sapiens_GCA_018505825.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:46 Homo_sapiens_GCA_018505855.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:20 Homo_sapiens_GCA_018505865.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:58 Homo_sapiens_GCA_018506125.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:28 Homo_sapiens_GCA_018506155.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:19 Homo_sapiens_GCA_018506955.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:31 Homo_sapiens_GCA_018506965.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:19 Homo_sapiens_GCA_018506975.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:13 Homo_sapiens_GCA_018852585.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:05 Homo_sapiens_GCA_018852595.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:30 Homo_sapiens_GCA_018852605.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:11 Homo_sapiens_GCA_018852615.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:00 Homo_sapiens_GCA_021950905.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:44 Homo_sapiens_GCA_021951015.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:54 Hyalella_azteca_GCA_000764305.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:56 Hydraecia_micacea_GCA_914767645.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:50 Hydra_vulgaris_GCA_000004095.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:49 Hydra_vulgaris_GCA_022113875.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:49 Hydriomena_furcata_GCA_912999755.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:48 Hydriomena_furcata_GCA_912999785.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:54 Hydropsyche_tenuis_GCA_009617725.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:46 Hylaea_fasciaria_GCA_905147375.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:16 Hyles_euphorbiae_GCA_023078785.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:07 Hyles_euphorbiae_GCA_023078785.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:52 Hyles_vespertilio_GCA_009982885.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 20:49 Hylobates_moloch_GCA_009828535.3
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 20:14 Hylobates_pileatus_GCA_021498465.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:52 Hypena_proboscidalis_GCA_905147285.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:11 Hypena_proboscidalis_GCA_905147305.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:02 Hypsopygia_costalis_GCA_937001555.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:00 Hypsopygia_costalis_GCA_937001695.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:50 Ichneumon_xanthorius_GCA_917498535.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:53 Ichneumon_xanthorius_GCA_917499995.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:49 Idaea_aversata_GCA_907269045.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:50 Idaea_aversata_GCA_907269075.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:50 Iphiclides_podalirius_GCA_933534255.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:20 Labeo_catla_GCA_012976165.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:26 Lacerta_agilis_GCA_009819535.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:51 Lagenorhynchus_obliquidens_GCA_003676395.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:54 Laothoe_populi_GCA_905220495.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:59 Laothoe_populi_GCA_905220505.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:14 Lasioglossum_lativentre_GCA_916610255.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:37 Lasioglossum morio_GCA_916610115.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:49 Lasioglossum_morio_GCA_916610235.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:56 Lasioglossum_pauxillum_GCA_933228785.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:00 Lasioglossum_pauxillum_GCA_933228795.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:55 Lasiommata_megera_GCA_928267235.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:07 Lasiommata_megera_GCA_928268935.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:57 Laspeyria_flexula_GCA_905147015.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:49 Laspeyria_flexula_GCA_905147035.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:09 Leguminivora_glycinivorella_GCA_023078275.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:07 Leistus_spinibarbis_GCA_933228875.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:49 Leistus_spinibarbis_GCA_933228885.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 15:47 Lemur catta_GCA_004024665.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:17 Lepeophtheirus_salmonis_GCA_016086655.3
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:57 Leptidea_sinapis_GCA_905404105.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:02 Leptidea_sinapis_GCA_905404315.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:20 Leptinotarsa_decemlineata_GCA_000500325.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:01 Leucozona_laternaria_GCA_932273885.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:01 Leucozona_laternaria_GCA_932273905.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:02 Limenitis_camilla_GCA_905147315.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:01 Limenitis_camilla_GCA_905147385.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:05 Limnephilus_lunatus_GCA_917563855.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:16 Limnephilus_marmoratus_GCA_917880885.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:07 Limnephilus_rhombicus_GCA_929108145.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:44 Limnoperna fortunei_GCA_944474755.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:05 Limnoperna_fortunei_GCA_944589985.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:13 Limulus_polyphemus_GCA_000517525.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:55 Linepithema_humile_GCA_000217595.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:02 Lineus_longissimus_GCA_910592375.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:52 Lineus_longissimus_GCA_910592395.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:01 Lingula_anatina_GCA_001039355.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:52 Lobophora_halterata_GCA_932525835.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:52 Lobophora_halterata_GCA_932526365.1
+-rw-r--r-- 1 jackt ensembl  41K Apr  4 10:06 log_file
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:08 Lucilia_cuprina_GCA_022045245.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:36 Luperina testacea_GCA_927399495.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:04 Luperina_testacea_GCA_927399505.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:10 Lycaena_phlaeas_GCA_905333005.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:54 Lycaena_phlaeas_GCA_905333065.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:57 Lymantria_monacha_GCA_905163515.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:08 Lymantria_monacha_GCA_905163525.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:56 Lynx_canadensis_GCA_007474595.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:04 Lysandra_bellargus_GCA_905332955.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:09 Lysandra_bellargus_GCA_905333045.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:25 Lysandra_coridon_GCA_905220515.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:14 Lysandra_coridon_GCA_905220525.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:06 Lytechinus_variegatus_GCA_018143015.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 20:42 Macaca_fascicularis_GCA_011100615.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 20:16 Macaca_fascicularis_GCA_903645275.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 16:03 Macaca thibetana thibetana_GCA_024542745.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:09 Macaria_notata_GCA_927399385.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:00 Machimus_atricapillus_GCA_933228755.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:36 Machimus atricapillus_GCA_933228815.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:06 Macropis_europaea_GCA_916610135.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:06 Malachius_bipustulatus_GCA_910589365.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 18:57 Malachius_bipustulatus_GCA_910589415.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:05 Mamestra_brassicae_GCA_905163435.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:13 Manduca_sexta_GCA_014839805.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:09 Maniola_hyperantus_GCA_902806685.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:17 Maniola_jurtina_GCA_905333055.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:37 Maniola jurtina_GCA_905333105.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 20:24 Manis_javanica_GCA_001685135.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:24 Marasmarcha_lunaedactyla_GCA_923062595.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:10 Marasmarcha_lunaedactyla_GCA_923062675.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:16 Marasmia_exigua_GCA_019059595.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 20:21 Marmota_flaviventris_GCA_003676075.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 20:31 Marmota_himalayana_GCA_005280165.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 20:04 Marmota_monax_GCA_901343595.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:46 Martes_zibellina_GCA_012583365.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:22 Mastacembelus_armatus_GCA_900324485.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:21 Mastacembelus_armatus_GCA_900324485.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:24 Megachile_rotundata_GCA_000220905.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 20:39 Megaderma_lyra_GCA_004026885.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:18 Meganola_albula_GCA_936440415.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:23 Meganola_albula_GCA_936450015.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:21 Melanargia_galathea_GCA_920103875.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:24 Melanargia_galathea_GCA_920104075.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:16 Melanostoma_mellinum_GCA_914767615.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:41 Melanostoma mellinum_GCA_914767635.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:42 Meleagris_gallopavo_GCA_000146605.4
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:25 Meleagris_gallopavo_GCA_905368555.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 20:42 Meles_meles_GCA_922984935.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:43 Melinaea marsaeus rileyi_GCA_918358865.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:09 Melinaea_marsaeus_rileyi_GCA_918361175.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:16 Melitaea_cinxia_GCA_905220555.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:42 Melitaea cinxia_GCA_905220565.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:11 Mellicta_athalia_GCA_905220535.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:20 Mellicta_athalia_GCA_905220545.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:14 Mellicta_athalia_GCA_905220545.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:20 Melolontha_melolontha_GCA_935421215.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:27 Melolontha_melolontha_GCA_935421255.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:11 Melopsittacus_undulatus_GCA_012275295.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:32 Mercenaria_mercenaria_GCA_014805675.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 20:26 Meriones_unguiculatus_GCA_004026785.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:43 Mesoligia furuncula_GCA_916611985.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:26 Mesoligia_furuncula_GCA_916614155.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:21 Microctonus_brassicae_GCA_940306215.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:27 Micropterix_aruncella_GCA_944547385.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:17 Micropterix_aruncella_GCA_944548615.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:02 Miltochrista_miniata_GCA_933228765.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:05 Miltochrista_miniata_GCA_933228775.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:24 Mimas_tiliae_GCA_905332985.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:02 Mimas_tiliae_GCA_905333085.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:18 Mimumesa_dahlbomi_GCA_917499265.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 20:36 Mirounga_leonina_GCA_011800145.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:16 Mizuhopecten_yessoensis_GCA_002113885.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:20 Molothrus_ater_GCA_012460135.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 20:31 Monodon_monoceros_GCA_005190385.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 20:46 Mus_minutoides_GCA_902729475.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 20:35 Mustela_erminea_GCA_009829155.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:18 Myathropa_florea_GCA_930367185.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:21 Myathropa_florea_GCA_930367245.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 20:38 Myodes_glareolus_GCA_004368595.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:40 Mythimna albipuncta_GCA_929113785.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:25 Mythimna_ferrago_GCA_910589285.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:19 Mythimna_ferrago_GCA_910589285.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:22 Mythimna_ferrago_GCA_910589535.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:43 Mythimna impura_GCA_905147275.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:27 Mythimna_impura_GCA_905147345.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:14 Mythimna_impura_GCA_905147345.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:26 Mythimna_separata_GCA_020882275.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:17 Myzus_persicae_GCA_001856785.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:48 Naja_naja_GCA_009733165.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:25 Nebria_brevicollis_GCA_944738965.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:20 Nebria_brevicollis_GCA_944739395.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:14 Nebria_salina_GCA_944039245.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:20 Nebria_salina_GCA_944039265.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:13 Neodiprion_lecontei_GCA_021901455.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:24 Neodiprion_pinetum_GCA_021155775.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 20:33 Neomonachus_schauinslandi_GCA_002201575.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:20 Nephrotoma_flavescens_GCA_932525705.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:29 Nephrotoma_flavescens_GCA_932526605.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:43 Nezara viridula_GCA_928085145.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:47 Nilaparvata lugens_GCA_014356525.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:28 Noctua_fimbriata_GCA_905163415.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:39 Noctua fimbriata_GCA_905163425.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:17 Noctua_janthe_GCA_910589295.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:17 Noctua_pronuba_GCA_905220335.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:16 Noctua_pronuba_GCA_905220345.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 07:51 Nomada_fabriciana_GCA_907165305.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 20:23 Nomascus_leucogenys_GCA_006542625.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:32 Nothobranchius_furzeri_GCA_001465895.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:25 Nothobranchius_kuhntae_GCA_006942095.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:24 Notocelia_uddmanniana_GCA_905163555.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:23 Notocelia_uddmanniana_GCA_905163575.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:22 Notodonta_dromedarius_GCA_905147325.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:18 Notodonta_dromedarius_GCA_905147855.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:28 Notodonta_ziczac_GCA_918843885.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:19 Notodonta_ziczac_GCA_918843915.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:50 Notolabrus celidotus_GCA_009762535.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:26 Nowickia_ferox_GCA_936439885.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:20 Nymphalis_polychloros_GCA_905220575.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:20 Nymphalis_polychloros_GCA_905220585.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:24 Nymphalis_polychloros_GCA_905220585.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 07:53 Nymphalis_urticae_GCA_905147055.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:20 Nymphalis_urticae_GCA_905147175.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:25 Nymphalis_urticae_GCA_905147175.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:19 Nysson_spinosus_GCA_910591465.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 07:51 Nysson_spinosus_GCA_910591585.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 07:52 Ochlodes_sylvanus_GCA_905404205.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:29 Ochlodes_sylvanus_GCA_905404295.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:28 Ochropleura_plecta_GCA_905475425.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:24 Ochropleura_plecta_GCA_905475445.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:28 Octopus_bimaculoides_GCA_001194135.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:24 Octopus_sinensis_GCA_006345805.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:30 Ocypus_olens_GCA_910593695.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:32 Ocypus_olens_GCA_910593855.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 20:27 Odocoileus_hemionus_hemionus_GCA_004115125.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:56 Odocoileus_virginianus_texanus_GCA_002102435.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:28 Omphaloscelis_lunosa_GCA_916610215.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:22 Omphaloscelis_lunosa_GCA_916610225.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 20:00 Oncorhynchus_gorbuscha_GCA_017355495.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:58 Oncorhynchus_keta_GCA_023373465.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 20:06 Oncorhynchus_kisutch_GCA_002021735.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 20:11 Oncorhynchus_mykiss_GCA_013265735.3
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:51 Oncorhynchus_nerka_GCA_006149115.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:24 Onthophagus_taurus_GCA_000648695.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 20:26 Onychomys_torridus_GCA_903995425.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:20 Ooceraea_biroi_GCA_003672135.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:20 Operophtera_brumata_GCA_932527175.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:25 Operophtera_brumata_GCA_932527245.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:28 Ophion_luteus_GCA_944452655.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:27 Ophion_luteus_GCA_944452715.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:33 Ophonus_ardosiacus_GCA_943138245.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:27 Ophonus_ardosiacus_GCA_943142095.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:24 Opisthograptis_luteolata_GCA_931315375.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:36 Opisthograptis luteolata_GCA_931315375.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:26 Opisthograptis_luteolata_GCA_931315605.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  4 19:16 Opisthograptis_luteolata_GCA_931315605.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:39 Orbicella faveolata_GCA_002042975.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:16 Orcinus_orca_GCA_937001465.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:36 Orgyia antiqua_GCA_917414775.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:04 Orussus_abietinus_GCA_000612105.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:56 Oryzias latipes_GCA_002234695.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:49 Oryzias latipes_GCA_002234715.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:06 Osmia_bicornis_bicornis_GCA_907164925.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:05 Osmia_bicornis_bicornis_GCA_907164935.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:17 Otus_sunia_GCA_010365825.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:17 Ovis_aries_GCA_000298735.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:23 Ovis_aries_GCA_002742125.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:45 Pammene fasciana_GCA_911728525.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:37 Pammene fasciana_GCA_911728535.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:43 Pandemis cinnamomeana_GCA_932294335.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:22 Pantherophis_guttatus_GCA_001185365.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:05 Papilio_machaon_GCA_912999745.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:41 Papilio machaon_GCA_912999765.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:52 Paracanthobrama guichenoti_GCA_018749465.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:08 Parapoynx_stratiotata_GCA_910589245.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:45 Parapoynx stratiotata_GCA_910589355.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:46 Pararge aegeria_GCA_905163445.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:49 Parasteatoda tepidariorum_GCA_000365465.3
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:48 Passer domesticus_GCA_001700915.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:45 Patella pellucida_GCA_917208275.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:41 Patiria miniata_GCA_015706575.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:38 Pectinophora gossypiella_GCA_024362695.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:43 Pectinophora gossypiella_GCA_024362825.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:10 Pemphredon_lugubris_GCA_933228935.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:41 Penaeus chinensis_GCA_019202785.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:15 Penaeus_japonicus_GCA_017312705.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:39 Penaeus vannamei_GCA_003789085.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:45 Peribatodes rhomboidaria_GCA_911728505.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:24 Periophthalmus_magnuspinnatus_GCA_009829125.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:33 Peromyscus_eremicus_GCA_902702925.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:50 Petromyzon marinus_GCA_010993605.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:14 Phacochoerus_africanus_GCA_016906955.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:39 Phalera bucephala_GCA_905147805.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:15 Phalera_bucephala_GCA_905147815.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:42 Pheosia gnoma_GCA_905404115.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:10 Pheosia_tremula_GCA_905333115.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:43 Pherbina coryleti_GCA_943735905.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:45 Pherbina coryleti_GCA_943735915.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:14 Philereme_vetulata_GCA_918811585.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:43 Philereme vetulata_GCA_918857605.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:46 Philonthus cognatus_GCA_932526485.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:41 Phlebotomus perniciosus_GCA_918844115.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:09 Phlebotomus_perniciosus_GCA_918844115.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:12 Phlogophora_meticulosa_GCA_905147725.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:13 Phlogophora_meticulosa_GCA_905147745.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:13 Phlogophora_meticulosa_GCA_905147745.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:49 Pholis gunnellus_GCA_910591455.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:47 Phosphuga atrata_GCA_944567605.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:16 Phosphuga_atrata_GCA_944588485.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:41 Phragmatobia fuliginosa_GCA_932526445.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:45 Phragmatobia fuliginosa_GCA_932526455.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 15:43 Phyllostomus discolor_GCA_004126475.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:12 Phyto_melanocephala_GCA_941918925.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:38 Pieris brassicae_GCA_905147085.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:19 Pieris_brassicae_GCA_905147105.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:18 Pieris_napi_GCA_905231885.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:35 Pieris napi_GCA_905231895.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:19 Pieris_napi_GCA_905475415.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:39 Pieris napi_GCA_905475465.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:43 Pieris napi_GCA_905475465.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:18 Pieris_rapae_GCA_905147735.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:52 Pipra filicauda_GCA_003945595.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:39 Platycheirus albimanus_GCA_916050605.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:24 Platycheirus_albimanus_GCA_916050605.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:45 Plebejus argus_GCA_905404155.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:35 Plebejus argus_GCA_905404155.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:43 Plebejus argus_GCA_905404165.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:33 Plectropomus_leopardus_GCA_011397275.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:19 Plutella_xylostella_GCA_932276165.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:21 Podabrus_alpinus_GCA_932273715.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:41 Podabrus alpinus_GCA_932274525.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:46 Poecile atricapillus_GCA_011421415.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:53 Poecilia formosa_GCA_013036085.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:43 Pogonomyrmex barbatus_GCA_000187915.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:43 Polistes dominula_GCA_001465965.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:52 Pollenia amentaria_GCA_943735925.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:52 Pollenia amentaria_GCA_943735935.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:27 Pollenia_angustigena_GCA_930367215.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:27 Pollenia_angustigena_GCA_930374645.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:38 Pollicipes pollicipes_GCA_011947565.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:39 Polydrusus cervinus_GCA_935413205.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:20 Polyommatus_icarus_GCA_937629555.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:21 Pomacea_canaliculata_GCA_003073045.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:22 Portunus_trituberculatus_GCA_017591435.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:39 Priapulus caudatus_GCA_000485595.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:41 Procambarus_clarkii_GCA_020424385.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:32 Protocalliphora_azurea_GCA_932273785.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:32 Protocalliphora_azurea_GCA_932274085.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:36 Protodeltote pygarga_GCA_936440985.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:25 Protodeltote_pygarga_GCA_936450705.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:38 Pseudochaenichthys_georgianus_GCA_902827115.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:38 Pterostichus madidus_GCA_911728425.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:49 Pterostichus madidus_GCA_911728475.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:27 Ptilodon_capucinus_GCA_914767695.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:26 Ptilodon_capucinus_GCA_914767775.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:50 Pyrgus malvae_GCA_911387725.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:29 Pyrgus_malvae_GCA_911387725.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:26 Pyrgus_malvae_GCA_911387765.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:35 Pyrochroa serraticornis_GCA_905333035.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 15:38 Rana temporaria_GCA_905171775.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:18 Rattus_norvegicus_GCA_015227675.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 16:26 Rattus norvegicus_GCA_021556685.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 10:10 Rattus_norvegicus_GCA_023515785.1
+drwxr-sr-x 3 jackt ensembl   29 Apr  4 10:06 results
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:34 Rhagonycha fulva_GCA_905340355.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:26 Rhagonycha_fulva_GCA_905340395.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:46 Rhingia campestris_GCA_932526435.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:29 Rhingia_campestris_GCA_932526625.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:30 Rhipicephalus_sanguineus_GCA_013339695.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 10:07 Rhizomys_pruinosus_GCA_009823505.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:23 Rhogogaster_chlorosoma_GCA_944452905.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:45 Rhogogaster chlorosoma_GCA_944452935.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 15:38 Rousettus aegyptiacus_GCA_001466805.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:45 Rutpela maculata_GCA_936432065.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:30 Saccoglossus_kowalevskii_GCA_000003605.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:58 Salarias fasciatus_GCA_902148845.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 15:32 Salmo salar_GCA_905237065.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:09 Salmo_salar_GCA_923944775.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 15:28 Salmo salar_GCA_931346935.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:27 Salmo_trutta_GCA_901001165.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:33 Salvelinus_namaycush_GCA_016432855.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 15:00 Sander lucioperca_GCA_008315115.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 10:10 Sapajus_apella_GCA_009761245.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:55 Sarcophaga_caerulescens_GCA_927399465.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:56 Sarcophaga_rosellei_GCA_930367195.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:37 Sarcophaga rosellei_GCA_930367235.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:57 Sarcophaga_subvicina_GCA_936440885.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:55 Sarcophaga_subvicina_GCA_936449025.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:49 Sarcophaga variegata_GCA_932276125.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:46 Scaeva pyrastri_GCA_905146935.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:53 Scaeva_pyrastri_GCA_905147095.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:27 Schistocerca_americana_GCA_021461395.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:41 Schistosoma haematobium_GCA_000699445.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:56 Schrankia_costaestrigalis_GCA_905475335.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:48 Schrankia costaestrigalis_GCA_905475405.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 10:12 Sciurus_carolinensis_GCA_902686445.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 10:08 Sciurus_vulgaris_GCA_902686455.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 10:07 Sciurus_vulgaris_GCA_902686455.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:03 Scleropages_formosus_GCA_900964775.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:53 Scophthalmus maximus_GCA_013347765.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 15:01 Sebastes umbrosus_GCA_015220745.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:53 Seladonia_tumulorum_GCA_913789895.3
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:58 Selenia_dentaria_GCA_917880725.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:57 Sesia_apiformis_GCA_914767545.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:41 Sesia bembeciformis_GCA_943735985.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:40 Sesia bembeciformis_GCA_943735995.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 15:54 Sigmodon hispidus_GCA_004025045.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:07 Silurus_aristotelis_GCA_946808225.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:52 Sipha_flava_GCA_003268045.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:51 Sitophilus oryzae_GCA_002938485.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:51 Solea senegalensis_GCA_919967415.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:54 Sousa_chinensis_GCA_007760645.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:06 Sphaeramia_orbicularis_GCA_902148855.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:36 Sphaerophoria taeniata_GCA_943590905.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:39 Sphaerophoria taeniata_GCA_943591125.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:47 Sphecodes monilicornis_GCA_913789915.3
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:56 Spilosoma_lubricipeda_GCA_905220605.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:54 Spodoptera frugiperda_GCA_011064685.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:34 Stelis phaeoptera_GCA_943735885.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:51 Stelis phaeoptera_GCA_943735895.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:04 Stenoptilia_bipunctidactyla_GCA_944452705.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:02 Stomorhina_lunata_GCA_933228635.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:08 Stomorhina_lunata_GCA_933228675.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:13 Strix_occidentalis_caurina_GCA_002372975.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:57 Stylophora_pistillata_GCA_002571385.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:01 Synanthedon_andrenaeformis_GCA_936447275.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:34 Synanthedon myopaeformis_GCA_944738625.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:01 Synanthedon_myopaeformis_GCA_944738685.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:01 Synanthedon_vespiformis_GCA_918317495.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:39 Syngnathus acus_GCA_901709675.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:33 Syritta pipiens_GCA_905147025.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:41 Tachina fera_GCA_905220375.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:05 Tachina_fera_GCA_905220395.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:08 Tachina_lurida_GCA_944452675.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:08 Tachina_lurida_GCA_944452685.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:17 Taeniopygia_guttata_GCA_003957565.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:41 Takifugu rubripes_GCA_901000725.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:02 Tenthredo_mesomela_GCA_943736025.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:53 Tenthredo mesomela_GCA_943736035.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 08:59 Tenthredo_notha_GCA_914767705.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:00 Tenthredo_notha_GCA_914767975.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:21 Thamnophis_elegans_GCA_009769535.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:06 Thecocarcelia_acutangulata_GCA_914767745.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:02 Thecocarcelia_acutangulata_GCA_914767995.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:53 Thecophora atra_GCA_937620795.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:00 Thecophora_atra_GCA_937641085.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:02 Thera_britannica_GCA_939531245.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:40 Thera britannica_GCA_939531255.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:07 Tholera_decimalis_GCA_943138005.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:05 Tholera_decimalis_GCA_943138885.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:00 Thrips_palmi_GCA_012932325.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:16 Thunnus_albacares_GCA_914725855.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:13 Thunnus_orientalis_GCA_009176245.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:16 Thyatira_batis_GCA_905147775.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:36 Thyatira batis_GCA_905147785.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:54 Thymallus thymallus_GCA_004348285.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:18 Thymelicus_sylvestris_GCA_911387695.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:55 Tinea semifulvella_GCA_910589645.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:33 Tiphia femorata_GCA_944319695.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 14:52 Tiphia femorata_GCA_944319705.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 15:05 Toxotes jaculatrix_GCA_017976425.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:43 Trachurus trachurus_GCA_905171665.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:45 Trematomus bernacchii_GCA_902827165.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:32 Trichogramma pretiosum_GCA_000599845.3
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:59 Tropheus moorii_GCA_902810505.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:18 Ursus arctos horribilis_GCA_003584765.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:37 Vanessa atalanta_GCA_905147705.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 16:06 Vanessa atalanta_GCA_905147705.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:19 Vanessa_atalanta_GCA_905147765.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:37 Vanessa cardui_GCA_905220355.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:18 Vanessa_cardui_GCA_905220365.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:18 Vanessa_tameamea_GCA_002938995.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 16:13 Verasper variegatus_GCA_013332515.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 16:06 Vespa crabro_GCA_910589235.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 16:04 Vespa crabro_GCA_910589515.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 16:05 Vespula germanica_GCA_905340295.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:38 Vespula germanica_GCA_905340365.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:17 Vespula_vulgaris_GCA_905404185.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:34 Vespula vulgaris_GCA_905475345.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:59 Volucella_inanis_GCA_907269115.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:54 Volucella_inflata_GCA_928272175.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:55 Volucella_inflata_GCA_928272305.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 11:03 Vulpes_lagopus_GCA_004023825.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:54 Watsonalla_binaria_GCA_929442715.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:52 Watsonalla_binaria_GCA_929442735.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 10:00 Xanthogramma_pedissequum_GCA_910595765.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:57 Xanthogramma_pedissequum_GCA_910595825.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 10:30 Xenopus_laevis_GCA_017654675.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 10:12 Xenopus_tropicalis_GCA_000004195.4
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:55 Xestia_sexstrigata_GCA_941918865.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:57 Xestia_sexstrigata_GCA_941918905.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 10:00 Xestia_xanthographa_GCA_905147715.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 10:00 Xestia_xanthographa_GCA_905147715.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:59 Xestia_xanthographa_GCA_905147755.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:55 Xestia_xanthographa_GCA_905147755.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 10:00 Xestia_xanthographa_GCA_913789905.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 10:00 Xestia_xanthographa_GCA_913789945.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:56 Xylocampa_areola_GCA_935412865.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:54 Xylocampa_areola_GCA_935421205.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:56 Xylota_sylvarum_GCA_905220385.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:56 Xylota_sylvarum_GCA_905220405.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:55 Yponomeuta_sedellus_GCA_934045075.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:55 Ypsolopha_scabrella_GCA_910591985.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 10:00 Ypsolopha_scabrella_GCA_910592155.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:55 Ypsolopha_sequella_GCA_934041175.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:38 Ypsolopha sequella_GCA_934047225.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 10:46 Zalophus_californianus_GCA_009762305.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 10:34 Zalophus_californianus_GCA_009762305.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:52 Zerene_cesonia_GCA_012273895.2
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:57 Zeuzera_pyrina_GCA_907165235.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:57 Zeuzera_pyrina_GCA_907165255.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 10:11 Zootoca_vivipara_GCA_011800845.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 09:54 Zygaena_filipendulae_GCA_907165265.1
+drwxr-sr-x 3 jackt ensembl   25 Apr  5 17:41 Zygaena filipendulae_GCA_907165275.2
