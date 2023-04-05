@@ -12,8 +12,10 @@ log.info """\
     =========================================
 """
 
-
-
 workflow {
     mirMachine(params.species, params.accession, params.mirMachine_clades)
+}
+
+workflow.onComplete {
+    log.info "Pipeline completed at: ${new Date().format('dd-MM-yyyy HH:mm:ss')}"
 }
