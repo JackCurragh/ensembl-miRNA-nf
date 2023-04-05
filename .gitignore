@@ -8,3 +8,4 @@ venv/
 pipeline-setup.sh
 *.sif
 *.pyc
+rough/
