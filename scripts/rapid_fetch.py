@@ -87,6 +87,8 @@ def build_url(species: str, assembly: str) -> str:
         return f"{base_url}/braker/genome/{species}-{assembly}-softmasked.fa.gz"
     elif check_url_validity(f"{base_url}/refseq"):
         return f"{base_url}/refseq/genome/{species}-{assembly}-softmasked.fa.gz"
+    elif check_url_validity(f"{base_url}/refseq"):
+        return f"{base_url}/community/genome/{species}-{assembly}-softmasked.fa.gz"
     else:
         raise ValueError(f"Could not find assembly {assembly} for species {species} in ensembl Rapid release. Tested {base_url}/ensembl and {base_url}/braker.")
 
