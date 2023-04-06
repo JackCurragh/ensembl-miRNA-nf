@@ -6,7 +6,7 @@ Bombus campestris		Bees	Hymenoptera	207624	iyBomCamp1.2	GCA_905333015.2	27523925
 Bombus vancouverensis nearcticus		Bees	Hymenoptera	2705178	Bvanc_JDL1245	GCA_011952275.1	282133710	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
 Buteo japonicus		Eastern buzzard	Birds	224669	ButJap1.0	GCA_010312235.1	1259715124	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
 Calamotropha paludella		Moths (alternate haplotype)	Lepidoptera	1371681	ilCalPalu1.1_alternate_haplotype	GCA_927399455.1	620053142	Ensembl	BRAKER2	FASTA/GTF/GFF3/TSV	FASTA	
-Carassius auratus red var.		Red crucian carp	Fish	657186	ASM906956v1	GCA_009069565.1	1436409119	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
+Carassius auratus redvar.		Red crucian carp	Fish	657186	ASM906956v1	GCA_009069565.1	1436409119	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
 Ceutorhynchus assimilis		Seedpod weevil	Coleoptera	467358	PGI_CEUTPL_v4	GCA_917834065.1	674950870	PGI	Import	FASTA/GTF/GFF3/TSV	FASTA	
 Chilo suppressalis		Striped rice stemborer	Lepidoptera	168631	PGI_CHILSU_v2	GCA_902850365.1	778668679	PGI	Import	FASTA/GTF/GFF3/TSV	FASTA	
 Clonorchis sinensis		Oriental liver fluke (Cs-k2)	Metazoa	79923	CSKR.v2	GCA_003604175.2	558124894	The University of Melbourne	Import	FASTA/GTF/GFF3/TSV	FASTA	
