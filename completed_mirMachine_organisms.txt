@@ -772,6 +772,7 @@ Meleagris_gallopavo_GCA_905368555.1/
 Meles_meles_GCA_922984935.2/
 Melinaea marsaeus rileyi_GCA_918358865.1/
 Melinaea_marsaeus_rileyi_GCA_918361175.2/
+Melinaea menophilus_GCA_918358695.1/
 Melinaea menophilus n ssp AW2005_GCA_918361105.2/
 Melitaea_cinxia_GCA_905220555.1/
 Melitaea cinxia_GCA_905220565.1/
