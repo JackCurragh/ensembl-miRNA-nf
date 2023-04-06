@@ -93,6 +93,8 @@ def build_url(species: str, assembly: str) -> str:
         return f"{base_url}/genbank/genome/{species}-{assembly}-softmasked.fa.gz"
     elif check_url_validity(f"{base_url}/wormbase"):
         return f"{base_url}/wormbase/genome/{species}-{assembly}-softmasked.fa.gz"
+    elif check_url_validity(f"{base_url}/flybase"):
+        return f"{base_url}/flybase/genome/{species}-{assembly}-softmasked.fa.gz"
     else:
         raise ValueError(f"Could not find assembly {assembly} for species {species} in ensembl Rapid release. Tested {base_url}/ensembl and {base_url}/braker.")
 
