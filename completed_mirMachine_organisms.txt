@@ -105,6 +105,7 @@ Apamea monoglypha_GCA_911387795.2/
 Apeira_syringaria_GCA_934044485.1/
 Apeira_syringaria_GCA_934045895.1/
 Aphidius_gifuensis_GCA_014905175.1/
+Aphis gossypii_GCA_917880025.1/
 Apis_dorsata_GCA_000469605.1/
 Apis florea_GCA_000184785.2/
 Aplocera_efformata_GCA_921293035.1/
@@ -407,6 +408,7 @@ Eristalinus sepulchralis_GCA_944738805.1/
 Eristalis_arbustorum_GCA_916610145.1/
 Eristalis_arbustorum_GCA_916610155.1/
 Eristalis_pertinax_GCA_907269085.1/
+Eristalis pertinax_GCA_907269125.1/
 Eristalis_tenax_GCA_905231845.1/
 Eristalis_tenax_GCA_905231855.1/
 Eristalis_tenax_GCA_905231855.2/
@@ -462,6 +464,7 @@ Galleria_mellonella_GCA_003640425.2/
 Gallus_gallus_GCA_000002315.5/
 Gallus gallus_GCA_016699485.1/
 Gallus_gallus_GCA_016700215.2/
+Gasterosteus aculeatus_GCA_006229185.1/
 Gasterosteus_aculeatus_GCA_006232265.1/
 Gasterosteus_aculeatus_GCA_006232285.1/
 GCA_001949145.1.fa.fai
@@ -618,6 +621,7 @@ Hydra_vulgaris_GCA_022113875.1/
 Hydriomena_furcata_GCA_912999755.1/
 Hydriomena_furcata_GCA_912999785.1/
 Hydropsyche_tenuis_GCA_009617725.1/
+Hylaea fasciaria_GCA_905147295.1/
 Hylaea_fasciaria_GCA_905147375.1/
 Hyles_euphorbiae_GCA_023078785.1/
 Hyles_euphorbiae_GCA_023078785.2/
@@ -763,6 +767,7 @@ Mustela putorius_GCA_902460205.1/
 Myathropa_florea_GCA_930367185.1/
 Myathropa_florea_GCA_930367245.1/
 Myodes_glareolus_GCA_004368595.1/
+Myripristis murdjan_GCA_902150065.1/
 Mythimna albipuncta_GCA_929113785.1/
 Mythimna_ferrago_GCA_910589285.1/
 Mythimna_ferrago_GCA_910589285.2/
@@ -1060,6 +1065,7 @@ Stenoptilia bipunctidactyla_GCA_944452665.1/
 Stenoptilia_bipunctidactyla_GCA_944452705.1/
 Stomorhina_lunata_GCA_933228635.1/
 Stomorhina_lunata_GCA_933228675.1/
+Strigops habroptila_GCA_004027225.1/
 Strix_occidentalis_caurina_GCA_002372975.1/
 Stylophora_pistillata_GCA_002571385.1/
 Suncus etruscus_GCA_024139225.1/
@@ -1078,9 +1084,11 @@ Tachina_fera_GCA_905220395.1/
 Tachina_lurida_GCA_944452675.1/
 Tachina_lurida_GCA_944452685.1/
 Taeniopygia_guttata_GCA_003957565.2/
+Taeniopygia guttata_GCA_008822105.1/
 Takifugu rubripes_GCA_901000725.2/
 Tenthredo_mesomela_GCA_943736025.1/
 Tenthredo mesomela_GCA_943736035.1/
+Tenthredo notha_GCA_914767705.1/
 Tenthredo_notha_GCA_914767705.2/
 Tenthredo_notha_GCA_914767975.1/
 Thalassophryne amazonica_GCA_902500255.1/
@@ -1102,6 +1110,7 @@ Thyatira batis_GCA_905147785.1/
 Thymallus thymallus_GCA_004348285.1/
 Thymelicus_sylvestris_GCA_911387695.1/
 Thymelicus sylvestris_GCA_911387775.1/
+Tinea semifulvella_GCA_910589255.1/
 Tinea semifulvella_GCA_910589645.1/
 Tinea trinotella_GCA_905220615.1/
 Tinea trinotella_GCA_905220625.1/
