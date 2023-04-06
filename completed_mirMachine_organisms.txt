@@ -382,6 +382,7 @@ Dolichovespula media_GCA_911387715.2/
 Dolichovespula saxonica_GCA_911387935.1/
 Dolichovespula sylvestris_GCA_918808275.1/
 Dromaius novaehollandiae_GCA_016128335.1/
+Drosophila melanogaster_GCA_000001215.4/
 Dryas iulia moderata_GCA_019049465.1/
 Dryobotodes eremita_GCA_917490515.1/
 Dryobotodes eremita_GCA_917490735.1/
@@ -515,6 +516,8 @@ Gymnosoma_rotundatum_GCA_916610175.2/
 Habropoda laboriosa_GCA_001263275.1/
 Habrosyne_pyritoides_GCA_907165225.1/
 Habrosyne_pyritoides_GCA_907165245.1/
+Haemaphysalis longicornis_GCA_013339765.1/
+Haemonchus contortus_GCA_000469685.2/
 Haliotis_rubra_GCA_003918875.1/
 Haliotis_rufescens_GCA_023055435.1/
 Halyzia_sedecimguttata_GCA_937616445.1/
@@ -644,6 +647,7 @@ Homo_sapiens_GCA_018852615.1/
 Homo_sapiens_GCA_021950905.1/
 Homo_sapiens_GCA_021951015.1/
 Hyalella_azteca_GCA_000764305.2/
+Hyalomma asiaticum_GCA_013339685.1/
 Hydraecia micacea_GCA_914767565.1/
 Hydraecia_micacea_GCA_914767645.1/
 Hydra_vulgaris_GCA_000004095.1/
@@ -669,6 +673,7 @@ Ichneumon_xanthorius_GCA_917499995.1/
 Idaea_aversata_GCA_907269045.1/
 Idaea_aversata_GCA_907269075.1/
 Iphiclides_podalirius_GCA_933534255.1/
+Ixodes persulcatus_GCA_013358835.1/
 Ixodes scapularis_GCA_016920785.2/
 Jaculus jaculus_GCA_020740685.1/
 Labeo_catla_GCA_012976165.1/
@@ -767,6 +772,7 @@ Meleagris_gallopavo_GCA_905368555.1/
 Meles_meles_GCA_922984935.2/
 Melinaea marsaeus rileyi_GCA_918358865.1/
 Melinaea_marsaeus_rileyi_GCA_918361175.2/
+Melinaea menophilus n ssp AW2005_GCA_918361105.2/
 Melitaea_cinxia_GCA_905220555.1/
 Melitaea cinxia_GCA_905220565.1/
 Mellicta_athalia_GCA_905220535.1/
@@ -1208,6 +1214,7 @@ Vespula_vulgaris_GCA_905404185.1/
 Vespula vulgaris_GCA_905475345.1/
 Vicugna pacos huacaya_GCA_000767525.1/
 Vicugna vicugna mensalis_GCA_013265495.1/
+Volucella inanis_GCA_907269105.1/
 Volucella_inanis_GCA_907269115.1/
 Volucella_inflata_GCA_928272175.1/
 Volucella_inflata_GCA_928272305.1/
@@ -1242,4 +1249,5 @@ Zeuzera_pyrina_GCA_907165235.1/
 Zeuzera_pyrina_GCA_907165255.1/
 Zootoca_vivipara_GCA_011800845.1/
 Zygaena_filipendulae_GCA_907165265.1/
+Zygaena filipendulae_GCA_907165275.1/
 Zygaena filipendulae_GCA_907165275.2/
