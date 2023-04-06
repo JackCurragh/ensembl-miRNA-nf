@@ -159,6 +159,7 @@ Bellardia_pandia_GCA_916048285.2/
 Bellardia_pandia_GCA_916050155.1/
 Bembecia_ichneumoniformis_GCA_910589475.1/
 Bembecia_ichneumoniformis_GCA_910589565.1/
+Bemisia tabaci_GCA_918797505.1/
 Betta_splendens_GCA_900634795.2/
 Betta_splendens_GCA_900634795.3/
 Bibio_marci_GCA_910594885.1/
@@ -454,6 +455,7 @@ Felis catus_GCA_013340865.1/
 Felis_catus_GCA_018350175.1/
 Ficedula_albicollis_GCA_000247815.2/
 Folsomia_candida_GCA_002217175.1/
+Fragum fragum_GCA_946902895.1/
 Frankliniella occidentalis_GCA_000697945.4/
 Furcula_furcula_GCA_911728485.2/
 Furcula_furcula_GCA_911728495.1/
@@ -851,6 +853,7 @@ Orbicella faveolata_GCA_002042975.1/
 Orcinus_orca_GCA_937001465.1/
 Oreochromis aureus_GCA_013358895.1/
 Orgyia antiqua_GCA_917414775.1/
+Orius laevigatus_GCA_018703685.1/
 Ornithorhynchus anatinus_GCA_004115215.2/
 Orussus_abietinus_GCA_000612105.2/
 Oryzias latipes_GCA_002234695.1/
@@ -1057,6 +1060,7 @@ Sphecodes monilicornis_GCA_913789915.3/
 Spilarctia lutea_GCA_916047975.1/
 Spilarctia lutea_GCA_916048165.1/
 Spilosoma_lubricipeda_GCA_905220605.1/
+Spodoptera exigua_GCA_902829305.1/
 Spodoptera frugiperda_GCA_011064685.2/
 Stegodyphus dumicola_GCA_010614865.2/
 Stelis phaeoptera_GCA_943735885.1/
@@ -1126,6 +1130,8 @@ Trematomus bernacchii_GCA_902827165.1/
 Trichechus manatus latirostris_GCA_000243295.1/
 Trichogramma pretiosum_GCA_000599845.3/
 Trichoplusia ni_GCA_003590095.1/
+Tridacna crocea_GCA_943736015.1/
+Tridacna gigas_GCA_945859785.2/
 Triplophysa tibetana_GCA_008369825.1/
 Tropheus moorii_GCA_902810505.1/
 Tursiops truncatus_GCA_011762595.1/
