@@ -64,7 +64,7 @@ def check_url_validity(url: str) -> bool:
         return False
 
 
-def build_url(species: str, assembly: str) -> str:
+def build_url(species: str, assembly: str, annotation_types=['ensembl', 'refseq', 'braker', 'community', 'genbank', 'flybase', 'wormbase', 'noninsdc']) -> str:
     '''
     Build ensembl Rapid release URL from species name and assembly GCA
     
@@ -81,22 +81,14 @@ def build_url(species: str, assembly: str) -> str:
         Ensembl Rapid release URL
     '''
     base_url = f"https://ftp.ensembl.org/pub/rapid-release/species/{species}/{assembly}"
-    if check_url_validity(f"{base_url}/ensembl"):
-        return f"{base_url}/ensembl/genome/{species}-{assembly}-softmasked.fa.gz"
-    elif check_url_validity(f"{base_url}/braker"):
-        return f"{base_url}/braker/genome/{species}-{assembly}-softmasked.fa.gz"
-    elif check_url_validity(f"{base_url}/refseq"):
-        return f"{base_url}/refseq/genome/{species}-{assembly}-softmasked.fa.gz"
-    elif check_url_validity(f"{base_url}/community"):
-        return f"{base_url}/community/genome/{species}-{assembly}-softmasked.fa.gz"
-    elif check_url_validity(f"{base_url}/genbank"):
-        return f"{base_url}/genbank/genome/{species}-{assembly}-softmasked.fa.gz"
-    elif check_url_validity(f"{base_url}/wormbase"):
-        return f"{base_url}/wormbase/genome/{species}-{assembly}-softmasked.fa.gz"
-    elif check_url_validity(f"{base_url}/flybase"):
-        return f"{base_url}/flybase/genome/{species}-{assembly}-softmasked.fa.gz"
+
+    tested_urls = [] 
+    for annotation_type in annotation_types:
+        tested_urls.append(f"{base_url}/{annotation_type}/genome/{species}-{assembly}-softmasked.fa.gz")
+        if check_url_validity(f"{base_url}/{annotation_type}"):
+            return f"{base_url}/{annotation_type}/genome/{species}-{assembly}-softmasked.fa.gz"
     else:
-        raise ValueError(f"Could not find assembly {assembly} for species {species} in ensembl Rapid release. Tested {base_url}/ensembl and {base_url}/braker.")
+        raise ValueError(f"Could not find assembly {assembly} for species {species} in ensembl Rapid release. Tested {tested_urls}")
 
 
 def fetch_fasta(url: str, output: str):
