@@ -1,55 +1,41 @@
 Scientific_name	New	Common_name	Clade	Taxon_ID	Assembly_name	Accession	Genome_size_bps	Annotation_provider	Annotation_method	Annotation	Genome	RNA_Seq
 Alouatta palliata		Mantled howler monkey	Primates	30589	AloPal_v1_BIUU	GCA_004027835.1	3033617595	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	BAM
-Amphiprion ocellaris		Clown anemonefish (Okinawa)	Fish	80972	ASM2253959v1	GCA_022539595.1	863484803	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	BAM
 Anthocharis cardamines		Orange tip (alternate haplotype)	Lepidoptera	227532	ilAntCard3.1_alternate_haplotype	GCA_905404305.1	327220656	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
 Anthonomus grandis grandis		Boll weevil (alternate haplotype)	Coleoptera	2921223	icAntGran1.2_alternate_haplotype	GCA_022605985.2	371797639	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
 Aphis gossypii		Cotton aphid	Hemiptera	80765	PGI_APHIGO_v1	GCA_917880025.1	325719615	PGI	Import	FASTA/GTF/GFF3/TSV	FASTA	
 Bemisia tabaci	NEW	Silverleaf whitefly (MED)	Hemiptera	7038	GCA918797505v1	GCA_918797505.1	609949642	NCBI	Import	FASTA/GTF/GFF3/TSV	FASTA	
 Bombus campestris		Bees	Hymenoptera	207624	iyBomCamp1.2	GCA_905333015.2	275239257	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
 Bombus vancouverensis nearcticus		Bees	Hymenoptera	2705178	Bvanc_JDL1245	GCA_011952275.1	282133710	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
-Bubo bubo		Eurasian eagle-owl	Birds	30461	BubBub1.0	GCA_010303855.1	1258069325	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
 Buteo japonicus		Eastern buzzard	Birds	224669	ButJap1.0	GCA_010312235.1	1259715124	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
-Cajanus cajan		Pigeon pea	Plants	3821	C.cajan_V1.0	GCA_000340665.1	592816859	IIPG	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
 Calamotropha paludella		Moths (alternate haplotype)	Lepidoptera	1371681	ilCalPalu1.1_alternate_haplotype	GCA_927399455.1	620053142	Ensembl	BRAKER2	FASTA/GTF/GFF3/TSV	FASTA	
 Carassius auratus red var.		Red crucian carp	Fish	657186	ASM906956v1	GCA_009069565.1	1436409119	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
 Ceutorhynchus assimilis		Seedpod weevil	Coleoptera	467358	PGI_CEUTPL_v4	GCA_917834065.1	674950870	PGI	Import	FASTA/GTF/GFF3/TSV	FASTA	
 Chilo suppressalis		Striped rice stemborer	Lepidoptera	168631	PGI_CHILSU_v2	GCA_902850365.1	778668679	PGI	Import	FASTA/GTF/GFF3/TSV	FASTA	
-Cistogaster globosa		Flies	Diptera	1918221	idCisGlob1.1	GCA_937654795.1	837758165	Ensembl	BRAKER2	FASTA/GTF/GFF3/TSV	FASTA	
 Clonorchis sinensis		Oriental liver fluke (Cs-k2)	Metazoa	79923	CSKR.v2	GCA_003604175.2	558124894	The University of Melbourne	Import	FASTA/GTF/GFF3/TSV	FASTA	
 Colias croceus		Clouded yellow (alternate haplotype)	Lepidoptera	72248	ilColCroc2.1_alternate_haplotype	GCA_905220445.1	305561395	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
 Cosmia trapezina		Dun-bar pinion (alternate haplotype)	Lepidoptera	116126	ilCosTrap1.1_alternate_haplotype	GCA_905163595.1	884050094	Ensembl	Braker	FASTA/GTF/GFF3/TSV	FASTA	
 Craniophora ligustri		Moths	Lepidoptera	938226	ilCraLigu1.1	GCA_905163465.1	437978302	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
-Crocuta crocuta		Spotted hyena	Mammals	9678	BGI_CrCroc_1.0	GCA_008692635.1	2348360376	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
 Cygnus atratus		Black swan	Birds	8868	Cygnus_atratus_primary_v1.0	GCA_013377495.1	1122262644	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
-Danaus plexippus		Monarch butterfly	Lepidoptera	13037	MEX_DaPlex	GCA_018135715.1	245173502	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
-Dendrolimus kikuchii		Moths	Lepidoptera	765133	ASM1992509v1	GCA_019925095.1	705515768	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
 Dendrolimus punctatus		Masson pine moth	Lepidoptera	238572	ASM1227379v1	GCA_012273795.1	614070971	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
 Denticeps clupeoides		Denticle herring	Fish	299321	fDenClu1.1	GCA_900700375.1	567401054	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
 Diabrotica virgifera virgifera		Western corn rootworm (Ped12-6-A-3)	Coleoptera	50390	Dvir_v2.0	GCA_003013835.2	2418073815	NCBI	import	FASTA/GTF/GFF3/TSV	FASTA	
 Diachrysia chrysitis		Burnished brass moth (alternate haplotype)	Lepidoptera	179674	ilDiaChry1.1_alternate_haplotype	GCA_932294375.1	385757801	Ensembl	BRAKER2	FASTA/GTF/GFF3/TSV	FASTA	
 Diarsia rubi		Moths (alternate haplotype)	Lepidoptera	987925	ilDiaRubi1.1_alternate_haplotype	GCA_932274355.1	575521489	Ensembl	BRAKER2	FASTA/GTF/GFF3/TSV	FASTA	
-Digitaria exilis		Monocots (digitaria_exilis)	Plants	1010633	Fonio_CM05836	GCA_902859565.1	716471022	KAUST	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
 Dimorphilus gyrociliatus		Segmented worms	Metazoa	2664684	Dgyrociliatus_assembly	GCA_904063045.1	77897245	Department of Biological Sciences, University of Bergen	Import	FASTA/GTF/GFF3/TSV	FASTA	
 Drosophila melanogaster		Fruit fly	Diptera	7227	BDGP6.46	GCA_000001215.4	143726002	FlyBase	Import	FASTA/GTF/GFF3/TSV	FASTA	
 Dryas iulia moderata		Julia butterfly	Lepidoptera	2752932	Diul.assembly.v1.1	GCA_019049465.1	440278161	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
 Dryobotodes eremita		Moths (alternate haplotype)	Lepidoptera	988106	ilDryErem1.1_alternate_haplotype	GCA_917490515.1	664534381	Ensembl	BRAKER2	FASTA/GTF/GFF3/TSV	FASTA	
 Echinococcus multilocularis		Flatworms (Java)	Metazoa	6211	EMULTI002	GCA_000469725.3	114963242	Wellcome Sanger Institute	Import	FASTA/GTF/GFF3/TSV	FASTA	
-Ectemnius continuus		Bees (alternate haplotype)	Hymenoptera	1126389	iyEctCont1.1_alternate_haplotype	GCA_910591485.1	234892221	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
 Endotricha flammealis		Moths	Lepidoptera	1101095	ilEndFlam1.2	GCA_905163395.2	473933762	Ensembl	BRAKER2	FASTA/GTF/GFF3/TSV	FASTA	
 Eristalis pertinax		Flies	Diptera	1572519	idEriPert2.1	GCA_907269125.1	482075123	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
 Felis catus x Leopardis geoffroyi		Geoffroyi cat	Mammals	2796247	O.geoffroyi_Oge1_pat1.0	GCA_018350155.1	2426370816	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
 Felis catus x Prionailurus bengalensis		Bengal (Bengal)	Mammals	2782171	Fcat_Pben_1.0_paternal_pri	GCA_016509475.1	2435702060	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
 Fragum fragum	NEW	Bivalves	Metazoa	80821	xbFraFrag2.1	GCA_946902895.1	1153070089	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
-Frankliniella occidentalis		Western flower thrips (FOCC.00)	Arthropods	133901	Focc_3.0	GCA_000697945.4	415771118	NCBI	Import	FASTA/GTF/GFF3/TSV	FASTA	
 Gasterosteus aculeatus		Three-spined stickleback (freshwater)	Fish	69293	BOT	GCA_006229185.1	427295814	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
-Glaucopsyche alexis		Green-underside blue (alternate haplotype)	Lepidoptera	203781	ilGlaAlex1.1_alternate_haplotype	GCA_905404225.1	658797992	Ensembl	BRAKER2	FASTA/GTF/GFF3/TSV	FASTA	
 Haemaphysalis longicornis		Longhorned tick (HaeL-2018)	Arthropods	44386	ASM1333976v1	GCA_013339765.1	2554970390	TIGMIC Group, Beijing Institute of Microbiology and Epidemiology	import	FASTA/GTF/GFF3/TSV	FASTA	
 Haemonchus contortus		Barber pole worm (ISE inbred ISE)	Metazoa	6289	haemonchus_contortus_MHCO3ISE_4.0	GCA_000469685.2	283439308	Wellcome Sanger Institute	Import	FASTA/GTF/GFF3/TSV	FASTA	
 Helicoverpa zea		Corn earworm (HzStark_Cry1AcR)	Lepidoptera	7113	ilHelZeax1.1	GCA_022581195.1	375180944	NCBI	Import	FASTA/GTF/GFF3/TSV	FASTA	
 Homalodisca vitripennis		Glassy winged sharpshooter (AUS2020)	Hemiptera	197043	UT_GWSS_2.1	GCA_021130785.2	2305003542	NCBI	Import	FASTA/GTF/GFF3/TSV	FASTA	
-Homo sapiens		Human (HG03098.pri.mat.f1_v2)	Primates	9606	HG03098.pri.mat.f1_v2	GCA_018506165.1	3059506215	Ensembl	Projection from GRCh38	FASTA/GTF/GFF3/TSV	FASTA	
-Homo sapiens		Human (HG00741.pri.mat.f1_v2)	Primates	9606	HG00741.pri.mat.f1_v2	GCA_018471095.1	3036685287	Ensembl	Projection from GRCh38	FASTA/GTF/GFF3/TSV	FASTA	
-Homo sapiens		Human (HG01978.pri.mat.f1_v2)	Primates	9606	HG01978.pri.mat.f1_v2	GCA_018472865.1	3051852830	Ensembl	Projection from GRCh38	FASTA/GTF/GFF3/TSV	FASTA	
 Hyalomma asiaticum		Ticks (Hyas-2018)	Arthropods	266040	ASM1333968v1	GCA_013339685.1	1713631380	TIGMIC Group, Beijing Institute of Microbiology and Epidemiology	import	FASTA/GTF/GFF3/TSV	FASTA	
 Hydraecia micacea		Rosy rustic (alternate haplotype)	Lepidoptera	214171	ilHydMica1.1_alternate_haplotype	GCA_914767565.1	503427563	Ensembl	BRAKER2	FASTA/GTF/GFF3/TSV	FASTA	
 Hylaea fasciaria		Moths (alternate haplotype)	Lepidoptera	722673	ilHylFasc1.1_alternate_haplotype	GCA_905147295.1	256092023	Ensembl	Braker	FASTA/GTF/GFF3/TSV	FASTA	
@@ -62,63 +48,26 @@ Melanostoma mellinum		Flies (alternate haplotype)	Diptera	653684	idMelMell2.2_al
 Melinaea menophilus n. ssp. AW-2005		Butterflies (alternate haplotype)	Lepidoptera	331302	ilMelMeno1.2_alternate_haplotype	GCA_918361105.2	477590851	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
 Melinaea menophilus n. ssp. AW-2005		Butterflies	Lepidoptera	331302	ilMelMeno1.1	GCA_918358695.1	496044222	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
 Micropterus salmoides		Largemouth bass	Fish	27706	ASM2243578v1	GCA_022435785.1	844893128	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	BAM
-Monomorium pharaonis		Pharaoh ant (MP-MQ-018)	Hymenoptera	307658	ASM1337386v2	GCA_013373865.2	325506644	NCBI	import	FASTA/GTF/GFF3/TSV	FASTA	
 Mus minutoides		Southern African pygmy mouse	Rodents	10105	Mus_minutoides_I2396_v1	GCA_902729485.1	2419477202	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	BAM
-Mustela putorius		European polecat	Mammals	9668	polecat_10x_lmp_	GCA_902460205.1	2464261309	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
 Myripristis murdjan		Pinecone soldierfish	Fish	586833	fMyrMur1.1	GCA_902150065.1	835254674	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
 Mythimna albipuncta		Moths	Lepidoptera	987983	ilMytAlbi1.1	GCA_929112965.1	698550901	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
 Neodiprion virginianus		Hymenopterans	Hymenoptera	2961670	iyNeoVirg1.1	GCA_021901495.1	262970509	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
 Nibea albiflora		White flower croaker	Fish	240163	ASM1428187v1	GCA_014281875.1	627578634	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	BAM
-Oreochromis aureus		Blue tilapia (Guangdong)	Fish	47969	ZZ_aureus	GCA_013358895.1	1005575223	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	BAM
 Orgyia antiqua		Rusty tussock moth	Lepidoptera	335469	ilOrgAnti1.1	GCA_916999025.1	480094981	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
 Orius laevigatus	NEW	Minute pirate bug	Hemiptera	82742	ASM1870368v1	GCA_018703685.1	150957203	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
-Oryza sativa Indica Group		Indica rice (IR64)	Plants	39946	OsIR64RS1	GCA_009914875.1	387434309	Gramene	External annotation import	FASTA/GTF/GFF3/TSV	FASTA	
-Oryza sativa Indica Group		Indica rice (Larha Mugad)	Plants	39946	Os125619RS1	GCA_009831355.1	391869645	Gramene	External annotation import	FASTA/GTF/GFF3/TSV	FASTA	
-Oryza sativa Indica Group		Indica rice (Minghui 63)	Plants	39946	MH63RS2	GCA_001618785.1	395765488	Gramene	External annotation import	FASTA/GTF/GFF3/TSV	FASTA	
-Oryza sativa Indica Group		Indica rice (Zhenshan 97)	Plants	39946	ZS97RS3	GCA_001618795.1	391561630	Gramene	External annotation import	FASTA/GTF/GFF3/TSV	FASTA	
-Oryza sativa Indica Group		Indica rice (Gobol Sail Balam)	Plants	39946	Os132424RS1	GCA_009831025.1	392847014	Gramene	External annotation import	FASTA/GTF/GFF3/TSV	FASTA	
-Oryza sativa Indica Group		Indica rice (Lima)	Plants	39946	Os127564RS1	GCA_009829395.1	405399143	Gramene	External annotation import	FASTA/GTF/GFF3/TSV	FASTA	
-Oryza sativa Indica Group		Indica rice (Liu Xu)	Plants	39946	Os125827RS1	GCA_009829375.1	490154521	Gramene	External annotation import	FASTA/GTF/GFF3/TSV	FASTA	
-Oryza sativa Indica Group		Indica rice (PR106)	Plants	39946	Os127742RS1	GCA_009831045.1	394601903	Gramene	External annotation import	FASTA/GTF/GFF3/TSV	FASTA	
-Oryza sativa Indica Group		Indica rice (Khao Yai Guang)	Plants	39946	Os127518RS1	GCA_009831295.1	399249348	Gramene	External annotation import	FASTA/GTF/GFF3/TSV	FASTA	
-Oryza sativa aromatic subgroup		Aromatic rice (ARC 10497)	Plants	1736658	Os117425RS1	GCA_009831255.1	380354188	Gramene	External annotation import	FASTA/GTF/GFF3/TSV	FASTA	
-Oryza sativa aus subgroup		Aus rice (N22)	Plants	1736659	OsN22RS2	GCA_001952365.2	388175468	Gramene	External annotation import	FASTA/GTF/GFF3/TSV	FASTA	
-Oryza sativa aus subgroup		Aus rice (Natel Boro)	Plants	1736659	Os127652RS1	GCA_009831335.1	384203823	Gramene	External annotation import	FASTA/GTF/GFF3/TSV	FASTA	
-Oryza sativa tropical japonica subgroup		Japonica rice (Chao Meo)	Plants	1736656	Os132278RS1	GCA_009831315.1	383243376	Gramene	External annotation import	FASTA/GTF/GFF3/TSV	FASTA	
-Oryza sativa tropical japonica subgroup		Japonica rice (Azucena)	Plants	1736656	AzucenaRS1	GCA_009830595.1	381570127	Gramene	External annotation import	FASTA/GTF/GFF3/TSV	FASTA	
-Oryza sativa tropical japonica subgroup		Japonica rice (Ketan Nangka)	Plants	1736656	Os128077RS1	GCA_009831275.1	382007384	Gramene	External annotation import	FASTA/GTF/GFF3/TSV	FASTA	
 Oryzias latipes		Japanese medaka	Fish	8090	ASM223467v1	GCA_002234675.1	734057086	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	BAM
 Owenia fusiformis		Segmented worms	Metazoa	6347	Owenia_assembly_annotated	GCA_903813345.1	518843022	Chema Martin-Duran lab., School of Biological and Chemical Sciences, Queen Mary University Of London	Import	FASTA/GTF/GFF3/TSV	FASTA	
 Panthera leo x Panthera tigris		Tiger	Mammals	235915	P.tigris_Pti1_mat1.0	GCA_018350195.1	2408678698	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
 Panthera leo x Panthera tigris		Lion	Mammals	235915	P.leo_Ple1_pat1.0	GCA_018350215.1	2297552363	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
-Papilio machaon		Common yellow swallowtail (alternate haplotype)	Lepidoptera	76193	ilPapMach1.1_alternate_haplotype	GCA_912999765.1	255982418	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
-Penaeus monodon		Black tiger shrimp (SGIC_2016)	Arthropods	6687	NSTDA_Pmon_1	GCA_015228065.1	2394347767	NCBI	import	FASTA/GTF/GFF3/TSV	FASTA	
 Phaedon cochleariae		Mustard beetle	Coleoptera	80249	PGI_PHAECO_v1	GCA_918026855.1	869734947	PGI	Import	FASTA/GTF/GFF3/TSV	FASTA	
-Pheosia tremula		Moths	Lepidoptera	988019	ilPheTrem1.1	GCA_905333125.1	290204870	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
 Phyllostomus discolor		Pale spear-nosed bat	Mammals	89673	mPhyDis1.pri.v3	GCA_004126475.3	2108832841	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
-Phyto melanocephala		Flies (alternate haplotype)	Diptera	1262321	idPhyMeln1.1_alternate_haplotype	GCA_941918875.1	708676230	Ensembl	BRAKER2	FASTA/GTF/GFF3/TSV	FASTA	
-Plasmodium vivax		Malaria parasite P. vivax	Plasmodium	5855	PvHMP-013	GCA_900178095.1	30971363	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
-Plasmodium vivax		Malaria parasite P. vivax	Plasmodium	5855	ASM1484394v1	GCA_014843945.1	29766561	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
-Plasmodium vivax		Malaria parasite P. vivax	Plasmodium	5855	ASM1484367v1	GCA_014843675.1	29981164	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
-Plasmodium vivax		Malaria parasite P. vivax	Plasmodium	5855	ASM1484393v1	GCA_014843935.1	29447970	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
-Plasmodium vivax		Malaria parasite P. vivax	Plasmodium	5855	ASM1484368v1	GCA_014843685.1	29804011	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
-Plasmodium vivax		Malaria parasite P. vivax	Plasmodium	5855	GCA_900093555	GCA_900093555.2	29040213	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
-Plasmodium vivax		Malaria parasite P. vivax	Plasmodium	5855	PvC01	GCA_900093535.1	30214966	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
 Platycheirus albimanus		Flies (alternate haplotype)	Diptera	414846	idPlaAlba1.1_alternate_haplotype	GCA_916050315.1	665330124	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
-Plutella xylostella		Diamondback moth (alternate haplotype)	Lepidoptera	51655	ilPluXylo3.1_alternate_haplotype	GCA_932276175.1	320717355	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
-Pocillopora damicornis		Cauliflower coral (RSMAS)	Metazoa	46731	ASM370409v1	GCA_003704095.1	234350878	NCBI	import	FASTA/GTF/GFF3/TSV	FASTA	
-Polydrusus cervinus		Beetles (alternate haplotype)	Coleoptera	202137	icPolCerv1.1_alternate_haplotype	GCA_935413225.1	681549653	Ensembl	BRAKER2	FASTA/GTF/GFF3/TSV	FASTA	
 Pomphorhynchus laevis		Thorny-headed worm (GPI110)	Metazoa	141832	ASM1293484v2	GCA_012934845.2	253271445	Institute of Organismic and Molecular Evolution (iomE), Johannes Gutenberg University Mainz	Import	FASTA/GTF/GFF3/TSV	FASTA	
-Psammomys obesus		Fat sand rat	Rodents	48139	ASM221593v2	GCA_002215935.2	2365774835	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
-Pseudoliparis sp. Yap Trench		Bony fishes (Yap trench)	Fish	2499240	ASM433547v1	GCA_004335475.1	840640641	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
 Pterostichus madidus		Beetles	Coleoptera	767470	icPteMadi1.1	GCA_911728475.1	705139919	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
 Pygocentrus nattereri		Red-bellied piranha	Fish	42514	fPygNat1.pri	GCA_015220715.1	1222050449	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	BAM
 Rhagoletis pomonella		Apple magot fly (Grant_MI)	Diptera	28610	Rhpom_1.0	GCA_013731165.1	1223288327	NCBI	import	FASTA/GTF/GFF3/TSV	FASTA	
 Rhopalosiphum maidis		Corn leaf aphid (BTI-1)	Hemiptera	43146	ASM367621v3	GCA_003676215.3	326023155	NCBI	import	FASTA/GTF/GFF3/TSV	FASTA	
-Rutpela maculata		Beetles (alternate haplotype)	Coleoptera	878968	icLepMacu1.1_alternate_haplotype	GCA_936443135.1	1667604102	Ensembl	BRAKER2	FASTA/GTF/GFF3/TSV	FASTA	
 Schmidtea mediterranea		Freshwater planarian (S2)	Metazoa	79327	ASM260089v1	GCA_002600895.1	942041730	Max Planck Institute of Molecular Cell Biology and Genetics	Import	FASTA/GTF/GFF3/TSV	FASTA	
-Sesia apiformis		Moths (alternate haplotype)	Lepidoptera	748215	ilSesApif2.1_alternate_haplotype	GCA_914767725.1	480778889	Ensembl	BRAKER2	FASTA/GTF/GFF3/TSV	FASTA	
-Spilarctia lutea		Moths	Lepidoptera	875881	ilSpiLutu1.1	GCA_916048165.1	584771933	Ensembl	BRAKER2	FASTA/GTF/GFF3/TSV	FASTA	
 Spilosoma lubricipeda		Moths	Lepidoptera	875880	ilSpiLubr1.1	GCA_905220595.1	587346829	Ensembl	BRAKER2	FASTA/GTF/GFF3/TSV	FASTA	
 Spodoptera exigua	NEW	Beet armyworm	Lepidoptera	7107	SPEXIv1	GCA_902829305.1	450886336	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
 Spodoptera littoralis		African cotton leafworm	Lepidoptera	7109	PGI_Spodlit_v1	GCA_902850265.1	435647201	PGI	Import	FASTA/GTF/GFF3/TSV	FASTA	
@@ -126,21 +75,13 @@ Strigops habroptila		Kakapo	Birds	2489341	bStrHab1_v1.p	GCA_004027225.1	11656219
 Synanthedon vespiformis		Moths (alternate haplotype)	Lepidoptera	1660703	ilSynVesp1.1_alternate_haplotype	GCA_918305855.1	248370841	Ensembl	BRAKER2	FASTA/GTF/GFF3/TSV	FASTA	
 Taeniopygia guttata		Zebra finch	Birds	59729	bTaeGut2.pat.W	GCA_008822105.1	1115324003	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
 Tenthredo notha		Hymenopterans	Hymenoptera	362091	iyTenNoth1.1	GCA_914767705.1	252821996	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
-Thymelicus sylvestris		Small skipper	Lepidoptera	272628	ilThySylv1.1	GCA_911387775.1	470710341	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
 Tinea semifulvella		Moths (alternate haplotype)	Lepidoptera	1101063	ilTinSemi1.1_alternate_haplotype	GCA_910589255.1	589249846	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
-Tinea trinotella		Moths (alternate haplotype)	Lepidoptera	1594354	ilTinTrin1.1_alternate_haplotype	GCA_905220625.1	369802652	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
-Trachypithecus francoisi		Francois's langur	Primates	54180	Tfra_2.0	GCA_009764315.1	2875554650	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	BAM
-Tragelaphus strepsiceros		Greater kudu	Mammals	9946	GTK	GCA_006410795.1	2867754166	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	BAM
-Trichechus manatus latirostris		Florida manatee	Mammals	127582	TriManLat1.0	GCA_000243295.1	3103808406	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	BAM
 Tridacna crocea	NEW	Bivalves	Metazoa	80833	xbTriCroc3.1	GCA_943736015.1	1048956009	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
 Tridacna gigas	NEW	Bivalves	Metazoa	80829	xbTriGiga4.2	GCA_945859785.2	1175943104	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
 Triplophysa siluroides		Catfish-like loach	Fish	422203	ASM603009v1	GCA_006030095.1	583428323	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	BAM
 Tursiops aduncus		Indo-pacific bottlenose dolphin	Mammals	79784	ASM322739v1	GCA_003227395.1	2503928010	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
 Tyto alba alba		Barn owl	Birds	507980	genome_assembly_l500	GCA_902150015.1	1219191878	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	BAM
 Venturia canescens		Endoparasitoid wasp (UGA)	Hymenoptera	32260	ASM1945775v1	GCA_019457755.1	290760430	NCBI	Import	FASTA/GTF/GFF3/TSV	FASTA	
-Verasper variegatus		Spotted halibut	Fish	82366	ASM1239343v1	GCA_012393435.1	556789779	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	BAM
 Vespa velutina		Wasps, ants, and bees	Hymenoptera	202808	iVesVel2.1	GCA_912470025.1	193976845	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
-Vigna unguiculata		Cowpea (IT97K-499-35)	Plants	3917	ASM411807v1	GCA_004118075.1	519066764	JGI	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
-Vitis vinifera		Wine grape (PN40024)	Plants	29760	PN40024.v4	GCA_910591555.1	475604073	IGGP	curated	FASTA/GTF/GFF3/TSV	FASTA	
 Volucella inanis		Flies	Diptera	226151	idVolInan1.1	GCA_907269105.1	961446857	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
 Zygaena filipendulae		Moths	Lepidoptera	287375	ilZygFili1.1	GCA_907165275.1	365947433	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
