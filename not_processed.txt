@@ -1,15 +1,3 @@
 Scientific_name	New	Common_name	Clade	Taxon_ID	Assembly_name	Accession	Genome_size_bps	Annotation_provider	Annotation_method	Annotation	Genome	RNA_Seq
-Anthonomus grandis grandis		Boll weevil (alternate haplotype)	Coleoptera	2921223	icAntGran1.2_alternate_haplotype	GCA_022605985.2	371797639	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
-Drosophila melanogaster		Fruit fly	Diptera	7227	BDGP6.46	GCA_000001215.4	143726002	FlyBase	Import	FASTA/GTF/GFF3/TSV	FASTA	
-Haemaphysalis longicornis		Longhorned tick (HaeL-2018)	Arthropods	44386	ASM1333976v1	GCA_013339765.1	2554970390	TIGMIC Group, Beijing Institute of Microbiology and Epidemiology	import	FASTA/GTF/GFF3/TSV	FASTA	
-Haemonchus contortus		Barber pole worm (ISE inbred ISE)	Metazoa	6289	haemonchus_contortus_MHCO3ISE_4.0	GCA_000469685.2	283439308	Wellcome Sanger Institute	Import	FASTA/GTF/GFF3/TSV	FASTA	
-Hyalomma asiaticum		Ticks (Hyas-2018)	Arthropods	266040	ASM1333968v1	GCA_013339685.1	1713631380	TIGMIC Group, Beijing Institute of Microbiology and Epidemiology	import	FASTA/GTF/GFF3/TSV	FASTA	
-Inachis io		European peacock	Lepidoptera	171585	ilAglIoxx1.1	GCA_905147045.1	384156914	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
-Inachis io		European peacock (alternate haplotype)	Lepidoptera	171585	ilAglIoxx1.1_alternate_haplotype	GCA_905147125.1	381505224	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
-Ixodes persulcatus		Taiga tick (Iper-2018)	Arthropods	34615	BIME_Iper_1.3	GCA_013358835.1	1901640799	TIGMIC Group, Beijing Institute of Microbiology and Epidemiology	import	FASTA/GTF/GFF3/TSV	FASTA	
-Melinaea menophilus n ssp AW2005		Butterflies (alternate haplotype)	Lepidoptera	331302	ilMelMeno1.2_alternate_haplotype	GCA_918361105.2	477590851	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
-Melinaea menophilus n ssp AW2005		Butterflies	Lepidoptera	331302	ilMelMeno1.1	GCA_918358695.1	496044222	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
-Neodiprion virginianus		Hymenopterans	Hymenoptera	2961670	iyNeoVirg1.1	GCA_021901495.1	262970509	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
-Orgyia antiqua		Rusty tussock moth	Lepidoptera	335469	ilOrgAnti1.1	GCA_916999025.1	480094981	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
-Volucella inanis		Flies	Diptera	226151	idVolInan1.1	GCA_907269105.1	961446857	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
-Zygaena filipendulae		Moths	Lepidoptera	287375	ilZygFili1.1	GCA_907165275.1	365947433	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
+Anthonomus grandis grandis		Boll weevil (alternate haplotype)	Coleoptera	2921223	icAntGran1.2_alternate_haplotype	GCA_022605725.3	371797639	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
+Melinaea menophilus		Butterflies	Lepidoptera	331302	ilMelMeno1.1	GCA_918358695.1	496044222	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
