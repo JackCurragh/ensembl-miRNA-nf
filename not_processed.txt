@@ -1,3 +1,0 @@
-Scientific_name	New	Common_name	Clade	Taxon_ID	Assembly_name	Accession	Genome_size_bps	Annotation_provider	Annotation_method	Annotation	Genome	RNA_Seq
-Anthonomus grandis grandis		Boll weevil (alternate haplotype)	Coleoptera	2921223	icAntGran1.2_alternate_haplotype	GCA_022605725.3	371797639	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
-Melinaea menophilus		Butterflies	Lepidoptera	331302	ilMelMeno1.1	GCA_918358695.1	496044222	Ensembl	Ensembl Genebuild	FASTA/GTF/GFF3/TSV	FASTA	
