@@ -255,7 +255,7 @@ def main(args):
     else:
         mirmachine_total_families_searched = get_mirmachine_total_families_searched(args.input)
 
-    analysis_node = mammals_heatmap.iloc[0]['mode']
+    analysis_node = mammals_heatmap.iloc[1]['mode']
 
     # From the heatmap csv file, extract the species and the number of microRNA families that have been detected that met the bitscore threshold in mirMachine
     mammals_filtered_score = create_filtered_score_df(mammals_heatmap, mirmachine_total_families_searched)
