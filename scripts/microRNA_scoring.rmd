@@ -3,11 +3,8 @@
 author: "Vanessa.M.Paynter"
 date: '2023-03-22'
 ---
-  
-  
-  
-  
-  ```{r}
+```{r}
+install.packages("tidyverse")
 
 library(dplyr)
 library(readr)
@@ -27,9 +24,9 @@ library(tidyr)
 # For metadata info file: grep -E '# Total families searched:|# Species:' ensembl_mammals_heatmap.csv | awk 'NR%2{printf "%s,",$0;next;}1'| tr ' ' ',' > ensembl_mammals_metadata.csv
 
 
-mammals_heatmap = read.csv("~/Work/mirmachine_plots/ensembl_mammals_heatmap_for_R.csv", sep=",",stringsAsFactors = FALSE)
+mammals_heatmap = read.csv("data/ensembl_mammals_heatmap_for_R.csv", sep=",",stringsAsFactors = FALSE)
 mammals_heatmap <- mutate(mammals_heatmap, family = toupper (family))
-mirmachine_output_metadata = read.csv("~/Work/mirmachine_plots/ensembl_mammals_metadata.csv", sep=",")
+mirmachine_output_metadata = read.csv("data/ensembl_mammals_metadata.csv", sep=",")
 
 
 ```
