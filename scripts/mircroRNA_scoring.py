@@ -48,7 +48,7 @@ def parse_metadata(metadata_csv_path: str) -> pd.DataFrame:
         metadata: pd.DataFrame
             Pandas dataframe of the mirMachine metadata file
     '''
-    metadata = pd.read_csv(metadata_csv_path, sep=",")
+    metadata = pd.read_csv(metadata_csv_path, sep=",", header=None)
     return metadata
 
 def create_filtered_score_df(heatmap: pd.DataFrame, mirmachine_total_families_searched) -> pd.DataFrame:
@@ -221,7 +221,7 @@ def main(args):
     mirmachine_output_metadata = parse_metadata(args.metadata)
 
     # Extract tot families searched for
-    mirmachine_total_families_searched = mirmachine_output_metadata.iloc[0]['215']
+    mirmachine_total_families_searched = mirmachine_output_metadata.iloc[0][4]
     analysis_node = mammals_heatmap.iloc[0]['mode']
 
     # From the heatmap csv file, extract the species and the number of microRNA families that have been detected that met the bitscore threshold in mirMachine
