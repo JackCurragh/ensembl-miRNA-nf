@@ -32,7 +32,8 @@ def parse_heatmap(headmapt_csv_path: str) -> pd.DataFrame:
         heatmap: pd.DataFrame
             Pandas dataframe of the mirMachine heatmap file
     '''
-    heatmap = pd.read_csv(headmapt_csv_path, sep=",")
+    heatmap = pd.read_csv(headmapt_csv_path, sep=",", comment='#', header=None)
+    heatmap.columns = ['species', 'mode' , 'family', 'node', 'tgff', 'filtered']
     # heatmap['species'] = heatmap['species'].str.upper()
     return heatmap
 
@@ -50,6 +51,26 @@ def parse_metadata(metadata_csv_path: str) -> pd.DataFrame:
     '''
     metadata = pd.read_csv(metadata_csv_path, sep=",", header=None)
     return metadata
+
+def get_mirmachine_total_families_searched(heatmap_path: str) -> int:
+    '''
+    Get the total number of microRNA families searched for in mirMachine
+
+    Input:
+        heatmap_path: str
+            Path to the mirMachine heatmap file
+
+    Output:
+        mirmachine_total_families_searched: int
+            Total number of microRNA families searched for in mirMachine
+    '''
+    with open(heatmap_path) as f:
+        for line in f.readlines():
+            if line.startswith('# Total families searched'):
+                mirmachine_total_families_searched = int(line.split(': ')[1].strip())
+                break
+    return mirmachine_total_families_searched
+
 
 def create_filtered_score_df(heatmap: pd.DataFrame, mirmachine_total_families_searched) -> pd.DataFrame:
     '''
@@ -168,7 +189,9 @@ def merge_and_output(filtered_score_df: pd.DataFrame,
                      analysis_node: str, 
                      family_ID: pd.DataFrame, 
                      mammals_filtered_missing: pd.DataFrame,
-                     output_path: str):
+                     output_path: str,
+                     json: str
+                     ):
     '''
     Merge the filtered and unfiltered dataframes and output the final table
 
@@ -212,16 +235,26 @@ def merge_and_output(filtered_score_df: pd.DataFrame,
     # Write the resulting dataframe to a tab-separated output file
     microRNA_score_table.to_csv(output_path, index=False)
 
+    if json:
+        # Write the resulting dataframe to a yaml file
+        microRNA_score_table.to_json(output_path.split('.csv')[0] + '.json', orient='records', indent=4)
+
 def main(args):
 
     # Read in the mirMachine heatmap file
     mammals_heatmap = parse_heatmap(args.input)
 
     # Read in the mirMachine metadata file
-    mirmachine_output_metadata = parse_metadata(args.metadata)
+    if args.metadata:
+        # This was the original code from Vanessa
+        # I believe this is not optimal as it assumes all accessions are the same clade
+        # new method should be run on each mirmachine output individually
+        mirmachine_output_metadata = parse_metadata(args.metadata)
+        # Extract tot families searched for
+        mirmachine_total_families_searched = mirmachine_output_metadata.iloc[0][4]
+    else:
+        mirmachine_total_families_searched = get_mirmachine_total_families_searched(args.input)
 
-    # Extract tot families searched for
-    mirmachine_total_families_searched = mirmachine_output_metadata.iloc[0][4]
     analysis_node = mammals_heatmap.iloc[0]['mode']
 
     # From the heatmap csv file, extract the species and the number of microRNA families that have been detected that met the bitscore threshold in mirMachine
@@ -241,14 +274,16 @@ def main(args):
                         analysis_node,
                         family_ID,
                         mammals_filtered_missing,
-                        args.output)
+                        args.output,
+                        args.json)
     
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Score microRNA sequences')
     parser.add_argument('-i', '--input', type=str, help='Path to the mirMachine heatmap file')
-    parser.add_argument('-m', '--metadata', type=str, help='Path to the mirMachine metadata file')
+    parser.add_argument('-m', '--metadata', required=False, type=str, help='DO NOT USE (should be removed soon): Path to the mirMachine metadata file')
     parser.add_argument('-o', '--output', type=str, help='Path to the mirMachine metadata file')
+    parser.add_argument('--json', action='store_true', default=False, required=False, help='Ouput report as json file - Only works for single species input')
     args = parser.parse_args()
 
     main(args)
