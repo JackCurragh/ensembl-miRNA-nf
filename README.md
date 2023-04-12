@@ -30,4 +30,4 @@ The `genebuild_tools` directory contains a set of scripts that will help run Mir
 5. `reformat_score_csv.py` - Produces a better results file that takes information from the files paths eg. `Ensembl_Rapid_Release-20_2_2023.csv`
 6. `Add_to_ftp.sh` - Moves output files to ftp only moving files that have changed since last run.
 
-Please note: this scripts (except the .py) were rewritten after I used them so there is potential for mistakes as they have not been tested on the full annotation set. 
+Please note: these scripts (except the .py) were rewritten after I used them so there is potential for mistakes as they have not been tested on the full annotation set. 
