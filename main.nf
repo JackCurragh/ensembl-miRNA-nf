@@ -8,7 +8,6 @@ log.info """\
     =========================================
     species: ${params.species}
     accession: ${params.accession}
-    mirMachine_clades: ${params.mirMachine_clades}
     =========================================
 """
 

@@ -8,10 +8,8 @@ workflow mirMachine {
     take:
         species
         accession
-        mirMachine_clades
 
     main:
-        // mirMachine_clades_ch    =   Channel.fromPath(mirMachine_clades)
         fasta_ch                =   RAPID(species, accession)
         clades_ch               =   LIST_MIRMACHINE_CLADES()
         formatted_clades_ch     =   FORMAT_CLADES(clades_ch)
