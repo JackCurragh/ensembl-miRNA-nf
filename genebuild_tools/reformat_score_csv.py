@@ -31,10 +31,10 @@ def parse_csv(path: str) -> dict:
     '''
     Read in the mirmachine scores csv and return a dataframe with the relevant columns
     '''
-    df = pd.read_csv(path, header=1)
+    df = pd.read_csv(path)
     name_accession_list = path.split('/')[-5].split('_')
-    scientific_name = name_accession_list[:-1]
-    accession = name_accession_list[-1]
+    scientific_name = ' '.join(name_accession_list[:-2])
+    accession = '_'.join(name_accession_list[-2:])
     analysis_node = df['analysis_node'][0]
     filtered_total_count = df['filtered_total_count'][0]
     filtered_microRNA_score = df['filtered_microRNA_score'][0]
