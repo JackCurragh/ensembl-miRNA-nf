@@ -4,12 +4,16 @@ From: ubuntu:20.04
 
 %post
     apt update
-    apt install -y libxml2-dev libxslt-dev libffi-dev gcc musl-dev gcc libssl-dev curl
+    DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends tzdata
+    apt install -y libxml2-dev libxslt-dev libffi-dev gcc musl-dev gcc libssl-dev curl git
     apt install -y make automake gcc g++ subversion python3-dev zlib1g-dev libjpeg-dev
     which pip || curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py && python3 get-pip.py
     python3 -m pip install ete3 numpy biopython pandas six
     chsh -s /bin/bash
     which bash || apt install -y bash
+    git clone https://github.com/sinanugur/MirMachine.git
+    cd MirMachine
+    python3 -m pip install . 
 
 %environment
     export PATH=/usr/local/bin:$PATH
