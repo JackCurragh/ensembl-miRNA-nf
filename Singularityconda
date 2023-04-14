@@ -1,0 +1,14 @@
+
+
+Bootstrap: docker
+
+From: continuumio/miniconda3
+
+%post
+    /opt/conda/bin/conda update -n base -c defaults conda
+    /opt/conda/bin/conda config --add channels bioconda
+    /opt/conda/bin/conda create -n "mirmachine" python mirmachine    
+    /opt/conda/envs/mirmachine/bin/python -m pip install ete3 numpy biopython pandas six
+
+%runscript
+    exec /opt/conda/envs/mirmachine/bin/"$@"

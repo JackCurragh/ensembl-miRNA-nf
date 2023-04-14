@@ -12,7 +12,7 @@ log.info """\
 """
 
 workflow {
-    mirMachine(params.species, params.accession, params.mirMachine_clades)
+    mirMachine(params.species, params.accession)
 }
 
 workflow.onComplete {

@@ -31,3 +31,15 @@ The `genebuild_tools` directory contains a set of scripts that will help run Mir
 6. `Add_to_ftp.sh` - Moves output files to ftp only moving files that have changed since last run.
 
 Please note: these scripts (except the .py) were rewritten after I used them so there is potential for mistakes as they have not been tested on the full annotation set. 
+
+### Note on containers: 
+This is the least reproducibly part of how I managed this. I couldn't get MirMachine and Ete3 to build in the same container so the container definition files here are not sufficient. I have left them as a work in progress. 
+
+
+The hack that I used was to pull the MirMachine container and install ete3 with pip inside that container. Sorry...
+```
+singularity pull https://depot.galaxyproject.org/singularity/mirmachine%3A0.2.12--pyhdfd78af_0
+
+singularity run depot.galaxyproject.org-singularity-mirmachine%3A0.2.12--pyhdfd78af_0.img
+Singularity> python -m pip install ete3 biopython numpy pandas six
+```
